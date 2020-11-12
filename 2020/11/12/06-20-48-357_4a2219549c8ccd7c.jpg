@@ -1,0 +1,1630 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>	
+	<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+	
+	
+	<title>#RUNSALTY &#8211; A non-runner&#039;s blog about running</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="#RUNSALTY &raquo; Feed" href="https://runsalty.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="#RUNSALTY &raquo; Comments Feed" href="https://runsalty.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/runsalty.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=921df0dc9ea878ca39bd4e6f835f57dc"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<style type="text/css">
+.hasCountdown{text-shadow:transparent 0 1px 1px;overflow:hidden;padding:5px}
+.countdown_rtl{direction:rtl}
+.countdown_holding span{background-color:#ccc}
+.countdown_row{clear:both;width:100%;text-align:center}
+.countdown_show1 .countdown_section{width:98%}
+.countdown_show2 .countdown_section{width:48%}
+.countdown_show3 .countdown_section{width:32.5%}
+.countdown_show4 .countdown_section{width:24.5%}
+.countdown_show5 .countdown_section{width:19.5%}
+.countdown_show6 .countdown_section{width:16.25%}
+.countdown_show7 .countdown_section{width:14%}
+.countdown_section{display:block;float:left;font-size:75%;text-align:center;margin:3px 0}
+.countdown_amount{font-size:200%}
+.countdown_descr{display:block;width:100%}
+a.countdown_infolink{display:block;border-radius:10px;width:14px;height:13px;float:right;font-size:9px;line-height:13px;font-weight:700;text-align:center;position:relative;top:-15px;border:1px solid}
+#countdown-preview{padding:10px}
+</style>
+<link rel='stylesheet' id='wp-block-library-css'  href='http://runsalty.com/wp-includes/css/dist/block-library/style.min.css?ver=921df0dc9ea878ca39bd4e6f835f57dc' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='http://runsalty.com/wp-content/themes/spicepress/css/bootstrap.css?ver=921df0dc9ea878ca39bd4e6f835f57dc' type='text/css' media='all' />
+<link rel='stylesheet' id='spicepress-style-css'  href='http://runsalty.com/wp-content/themes/spicepress/style.css?ver=921df0dc9ea878ca39bd4e6f835f57dc' type='text/css' media='all' />
+<link rel='stylesheet' id='default-css'  href='http://runsalty.com/wp-content/themes/spicepress/css/default.css?ver=921df0dc9ea878ca39bd4e6f835f57dc' type='text/css' media='all' />
+<link rel='stylesheet' id='spicepress-theme-menu-css-css'  href='http://runsalty.com/wp-content/themes/spicepress/css/theme-menu.css?ver=921df0dc9ea878ca39bd4e6f835f57dc' type='text/css' media='all' />
+<link rel='stylesheet' id='animate.min-css-css'  href='http://runsalty.com/wp-content/themes/spicepress/css/animate.min.css?ver=921df0dc9ea878ca39bd4e6f835f57dc' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://runsalty.com/wp-content/themes/spicepress/css/font-awesome/css/font-awesome.min.css?ver=921df0dc9ea878ca39bd4e6f835f57dc' type='text/css' media='all' />
+<link rel='stylesheet' id='spicepress-media-responsive-css-css'  href='http://runsalty.com/wp-content/themes/spicepress/css/media-responsive.css?ver=921df0dc9ea878ca39bd4e6f835f57dc' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-carousel-css-css'  href='http://runsalty.com/wp-content/themes/spicepress/css/owl.carousel.css?ver=921df0dc9ea878ca39bd4e6f835f57dc' type='text/css' media='all' />
+<link rel='stylesheet' id='spicepress-fonts-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C600%2C700%2C800%7CDosis%3A200%2C300%2C400%2C500%2C600%2C700%2C800%7Citalic%7CCourgette&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<script type='text/javascript' id='wp-statistics-js-js-extra'>
+/* <![CDATA[ */
+var wps_statistics_object = {"rest_url":"https:\/\/runsalty.com\/wp-json\/","wpnonce":"cac092081e"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://runsalty.com/wp-content/plugins/wp-statistics/assets/js/front.min.js?ver=12.6.13' id='wp-statistics-js-js'></script>
+<script type='text/javascript' src='http://runsalty.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+<script type='text/javascript' src='http://runsalty.com/wp-content/themes/spicepress/js/bootstrap.min.js?ver=921df0dc9ea878ca39bd4e6f835f57dc' id='bootstrap-min-js'></script>
+<script type='text/javascript' src='http://runsalty.com/wp-content/themes/spicepress/js/menu/menu.js?ver=921df0dc9ea878ca39bd4e6f835f57dc' id='spicepress-menu-js-js'></script>
+<script type='text/javascript' src='http://runsalty.com/wp-content/themes/spicepress/js/page-scroll.js?ver=921df0dc9ea878ca39bd4e6f835f57dc' id='spicepress-page-scroll-js-js'></script>
+<link rel="https://api.w.org/" href="https://runsalty.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://runsalty.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://runsalty.com/wp-includes/wlwmanifest.xml" /> 
+
+<!-- Analytics by WP-Statistics v12.6.13 - https://wp-statistics.com/ -->
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><link rel="icon" href="https://runsalty.com/wp-content/uploads/2017/02/DNR-100x100.png" sizes="32x32" />
+<link rel="icon" href="https://runsalty.com/wp-content/uploads/2017/02/DNR.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://runsalty.com/wp-content/uploads/2017/02/DNR.png" />
+<meta name="msapplication-TileImage" content="https://runsalty.com/wp-content/uploads/2017/02/DNR.png" />
+		<style type="text/css" id="wp-custom-css">
+			/*===================================================================================*/
+/*	SIDEBAR SECTION
+/*===================================================================================*/
+
+.sidebar { margin-bottom: 0px; margin-left: 0; padding: 0px; }
+.sidebar .widget { background-color: #ffffff; border: 1px solid #e9e9e9; margin: 0 0 10px; overflow: hidden; padding: 0; }
+.sidebar .section-header { background-color: #21202e; width: 100%; margin-bottom: 0px; margin-top: 0px; padding: 8px 10px; display: block; text-align: left; }
+.sidebar .section-header .widget-title { color: #ffffff; font-size: 1.0rem; margin: 0; padding-bottom: 0px; word-wrap: break-word; }
+.sidebar-menu-box { display: block; }
+.sidebar .section-header .widget-title .rsswidget, 
+.header-sidebar .section-header .widget-title .rsswidget, 
+.footer-sidebar .section-header .widget-title .rsswidget { color: #fff; }
+.sidebar .widget.widget_text select { width: 100%; margin: 0; }
+.sidebar .widget ul, .sidebar .widget.widget_rss ul, .sidebar .widget .calendar_wrap, .sidebar .widget .textwidget, .sidebar .widget.widget_rss ul
+.sidebar .widget .gallery, .sidebar .widget img.image, .sidebar .widget .search-form, .sidebar .widget .tagcloud  { 
+	margin: 0; 
+	padding: 5px 25px;
+; 
+}
+
+
+
+.sidebar .section-header {
+    border-left: 15px solid #ce1b28;
+}
+.sidebar form.search-form label { padding: 0; }
+.sidebar .widget label { display: block; padding: 25px 25px 0; margin: 0; }
+.sidebar .widget select { margin: 0; margin: 30px 25px; width: 85%; }
+.sidebar .widget .cont-social { padding: 0; }
+/*Widget Audio*/
+.sidebar .widget.widget_media_audio .mejs-audio { max-width: 85%; height: auto; margin: 30px 25px; }
+/*Widget Video*/
+.sidebar .widget.widget_media_video .wp-video { max-width: 85%; height: auto; margin: 30px 25px; }
+.sidebar .widget.widget_media_video .wp-video iframe { width: 100%; }
+/*Sidebar Latest Post - Custom Widget*/
+.widget .post { background: transparent; border-bottom: 1px dotted #c5d1dc; border-left: 0 none; border-right: 0 none; border-top: 0 none; margin-bottom: 17px; margin-top: 0 !important; padding: 0 0 17px 0; overflow: hidden; }
+.widget .post:last-child { margin-bottom: 0px; padding-bottom: 0px; border-bottom: 0px; }
+.widget .post .entry-title { color: #0f0f16; display: block; font-size: 1.250rem; margin-bottom: 10px; margin-top: -4px; word-wrap: break-word; }
+.widget .post .entry-title a { color: #0f0f16; transition: all 0.3s ease 0s; }
+.widget .post .entry-content { margin: 0px; display: block; }
+.widget .post a.post-thumbnail { display: block; float: left; width: 90px; margin-left: 0; margin-right: 25px; padding: 1px; }
+.widget .post a.post-thumbnail img { border-radius: 0px; 
+	border: 4px solid #fff;
+	-moz-box-shadow: 0px 0px 2px #ccc;
+	-webkit-box-shadow: 0px 0px 2px #ccc;
+	box-shadow: 0px 0px 2px #ccc;  display: block; height: auto; max-width: 100%; transition: all 0.3s ease-in-out 0s; }
+.widget .post:hover a.post-thumbnail img { opacity: 0.7px; }
+.sidebar .widget .post {
+    margin: 30px 25px !important;
+    padding: 0;
+}
+/*Sidebar Calender Widget*/
+.widget_calendar {}
+.calendar_wrap table#wp-calendar {
+	color: #64646d;
+	font-weight: 500;
+	font-size: 0.938rem;
+	border-collapse: separate;
+	border-spacing: 0;
+	border-width: 1px 0 0 1px;
+	margin: 0;
+	text-align: center;
+	table-layout: fixed;
+	width: 100%
+}
+.calendar_wrap table#wp-calendar caption { 
+	color: #ffffff;
+	text-align: center;
+	font-weight: 600;
+	font-size: 1.000rem;
+    margin: 0;
+	padding: 10px 0;
+}
+
+.calendar_wrap table#wp-calendar, .calendar_wrap table#wp-calendar th, .calendar_wrap table#wp-calendar td { background-color: #fff; border: 1px solid rgba(51, 51, 51, 0.1); text-align: center; padding: 0.250rem 0; border-width: 0 1px 1px 0; line-height: 1.9375; }
+.calendar_wrap table#wp-calendar a { color: #000000; font-weight: 600; }
+.calendar_wrap table#wp-calendar #next a, .calendar_wrap table#wp-calendar #prev a { font-weight: 600; color: #000000; }
+/*Sidebar Widget Archive, Widget categories, Widget Links, Widget Meta, widget Nav Menu, Widget Pages, Widget Recent Comments, Widget Recent Entries */
+.widget_archive ul, .widget_categories ul, .widget_links ul, .widget_meta ul, .widget_nav_menu ul, .widget_pages ul, 
+.widget_recent_comments ul, .widget_recent_entries ul {
+    list-style: outside none none;
+}
+.widget_archive li:first-child, .widget_categories li:first-child, .widget_links li:first-child, .widget_meta li:first-child, .widget_nav_menu li:first-child, 
+.widget_pages li:first-child, .widget_recent_comments li:first-child, .widget_recent_entries li:first-child {
+    border-top: 0 none;
+    padding-top: 0;
+}
+.widget_archive li:last-child, .widget_categories li:last-child, .widget_links li:last-child, .widget_meta li:last-child, .widget_nav_menu li:last-child, 
+.widget_pages li:last-child, .widget_recent_comments li:last-child, .widget_recent_entries li:last-child {
+    padding-bottom: 0px;
+	border-bottom: 0 none !important;
+	margin-bottom: 0;
+}
+.widget_archive li, .widget_categories li, .widget_links li, .widget_meta li, .widget_nav_menu li, .widget_pages li, 
+.widget_recent_comments li, .widget_recent_entries li {
+    font-weight: 500;
+	border-bottom: 1px dotted #c5d1dc;
+    margin: 0 0 12px;
+    padding: 0px 0px 12px 25px;
+	position: relative;
+}
+.widget_archive li:before, .widget_categories li:before, .widget_links li:before, 
+.widget_meta li:before, .widget_nav_menu li:before, .widget_pages li:before, 
+.widget_recent_comments li:before, .widget_recent_entries li:before {
+    position: absolute;
+    top: 0;
+    left: 0;
+    content: '\f00c';
+    font-family: 'FontAwesome';
+}
+.widget_archive a, .widget_categories a, .widget_links a, .widget_meta a, .widget_nav_menu a, .widget_pages a, 
+.widget_recent_comments a, .widget_recent_entries a {
+    border: 0 none;
+	transition: all 0.3s ease 0s;
+	color: #64646d;
+}
+.widget_recent_comments a::before {	
+	content: "";
+	font-family: FontAwesome;
+	display: none;
+	margin-right: 10px;
+	margin-left: 1px;
+	font-size: 0.875rem;
+}
+.widget ul#recentcomments li.recentcomments span.comment-author-link { font-weight: 700; color: #64646d; }
+/*Blockquote*/
+blockquote { background-color: #f2f2f2; margin: 5px 0 20px; font-size: 1.250rem; ; border-left: 15px solid #ce1b28; }
+blockquote p { font-size: 18px; margin: 0 !important; }
+blockquote cite, blockquote small, blockquote a  { color: #0f0f16; display: block; font-size: 1rem; line-height: 1.75; font-weight: 600; margin: 10px 0 0; }
+.blog section .post .entry-content p a{
+		border: 1px solid #eeeeee;
+	text-decoration: none;
+	 background-color: #f9f9f9;
+    padding: 0px 3px;
+    text-align: center;
+    display: inline-block;
+			box-shadow:  2px 3px 4px  rgba(0,0,0,0.2);
+			-moz-box-shadow: 2px 3px 4px  rgba(0,0,0,0.2);
+			-webkit-box-shadow:  2px 3px 4px  rgba(0,0,0,0.2);
+			-o-box-shadow: 2px 3px 4px  rgba(0,0,0,0.2);
+	
+}
+.blog section .post .entry-content p img {
+		border: 1px solid #eeeeee;
+	border-bottom: 45px solid #f9f9f9;
+	text-decoration: none;
+	 background-color: #f9f9f9;
+    padding: 10px 10px;
+    text-align: center;
+    display: inline-block;
+			box-shadow:  2px 3px 4px  rgba(0,0,0,0.2);
+			-moz-box-shadow: 2px 3px 4px  rgba(0,0,0,0.2);
+			-webkit-box-shadow:  3px 3px 4px  rgba(0,0,0,0.2);
+			-o-box-shadow: 2px 3px 4px  rgba(0,0,0,0.2);
+	
+}
+.blog section .post .entry-content p a:hover{
+	background-color: #ce1b28;
+		border: 1px solid #000000;	
+	color: #ffffff
+	
+}
+
+
+
+.blog section .post .entry-content div img {
+		border: 1px solid #eeeeee;
+	border-bottom: 45px solid #f9f9f9;
+	text-decoration: none;
+	 background-color: #f9f9f9;
+    padding: 10px 10px;
+    text-align: center;
+    display: inline-block;
+			box-shadow:  2px 3px 4px  rgba(0,0,0,0.2);
+			-moz-box-shadow: 2px 3px 4px  rgba(0,0,0,0.2);
+			-webkit-box-shadow:  3px 3px 4px  rgba(0,0,0,0.2);
+			-o-box-shadow: 2px 3px 4px  rgba(0,0,0,0.2);
+	
+}
+
+.blog section .post .entry-content div a:hover{
+		border: 1px solid #000000;
+	text-decoration: none;
+    padding: 0px 0px;
+    text-align: center;
+    display: inline-block;
+}
+
+/*Sidebar Tags*/
+.tagcloud { margin: 0px; overflow: hidden; padding: 0; }
+.tagcloud a {
+	background-color: #f9f9f9; border: 1px solid #e9e9e9; color: #64646d;
+    cursor: pointer;
+    display: inline-block;
+    margin: 0 4px 3px 0;
+    padding: 2px 5px;
+    transition: all 0.3s ease 0s;
+    vertical-align: baseline;
+    white-space: nowrap;
+}
+.tagcloud a:hover { color: #ffffff; }
+
+/* Add custom style tags below here */
+
+
+
+		</style>
+		</head>
+<body class="home blog" >
+<div id="wrapper">
+
+<!--Logo & Menu Section-->	
+<nav class="navbar navbar-default">
+	<div class="container">
+		<!-- Brand and toggle get grouped for better mobile display -->
+		<div class="navbar-header">
+			            			<div class="site-branding-text">
+				<h1 class="site-title"><a href="https://runsalty.com/" rel="home">#RUNSALTY</a></h1>
+									<p class="site-description">A non-runner&#039;s blog about running</p>
+							</div>
+						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+		</div>
+		
+
+		<!-- Collect the nav links, forms, and other content for toggling -->
+		<div id="navbar" class="collapse navbar-collapse in">
+					<div class=""><ul class="nav navbar-nav navbar-right"><li class="current_page_item"><a href="https://runsalty.com/" title="Home">Home</a></li><li class="page_item page-item-55"><a href="https://runsalty.com/trex-stats/">Trex Stats</a></li><li class="page_item page-item-1277"><a href="https://runsalty.com/uftp/">Ultra Finish Time Predictor</a></li></ul></div>
+				
+		</div><!-- /.navbar-collapse -->
+	</div><!-- /.container-fluid -->
+</nav>	
+<!--/Logo & Menu Section-->	
+
+<div class="clearfix"></div> <!-- Page Title Section -->
+		<section class="page-title-section">		
+			<div class="overlay">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-6 col-sm-6">
+						   <div class="page-title wow bounceInLeft animated" ata-wow-delay="0.4s"><h1>Countdown Clocks</h1></div>						</div>
+						<div class="col-md-6 col-sm-6">
+							<ul class="page-breadcrumb wow bounceInRight animated" ata-wow-delay="0.4s"><li><a href="https://runsalty.com">Countdown Clocks</a></li><li class="active"><a href="Countdown Clocks">#RUNSALTY</a></li></ul>						</div>
+					</div>
+				</div>	
+			</div>
+		</section>
+		<div class="page-seperate"></div>
+		<!-- /Page Title Section -->
+ 
+ 
+<!-- Blog & Sidebar Section -->
+<section class="blog-section">
+	<div class="container">
+		<div class="row">	
+			<!--Blog Section-->
+			<div class="col-md-8 col-sm-7 col-xs-12">
+								<article class="post" class="post-content-area wow fadeInDown animated post-1223 post type-post status-publish format-standard sticky hentry category-100m category-doomsday category-endurance-race category-ultramarathon" data-wow-delay="0.4s">				
+						<div class="entry-meta">
+		<span class="entry-date">
+			<a href="https://runsalty.com/2019/04/"><time datetime="">Apr 24, 2019</time></a>
+		</span>
+	</div>
+					<header class="entry-header">
+						<h3 class="entry-title"><a href="https://runsalty.com/2019/04/24/countdown-clocks/">Countdown Clocks</a></h3><div class="entry-meta">
+	<span class="author">By <a rel="tag" href="https://runsalty.com/author/dadigator/">TREX</a>
+	
+	</span>
+		<span class="cat-links">in<a href="https://runsalty.com/2019/04/24/countdown-clocks/"><a href="https://runsalty.com/category/100m/" rel="category tag">100M</a>, <a href="https://runsalty.com/category/doomsday/" rel="category tag">Doomsday</a>, <a href="https://runsalty.com/category/endurance-race/" rel="category tag">Endurance Race</a>, <a href="https://runsalty.com/category/ultramarathon/" rel="category tag">Ultramarathon</a></a></span>
+	
+</div>	 
+					</header>				
+										<div class="entry-content">
+						
+          <div class="widget shailan_CountdownWidget">          <h2 class="widgettitle">Prairie Grudge Match</h2>
+        <div id="shailan-countdown--1_1" class="shailan-countdown--1 countdown"  style=" margin:0px auto; "></div>
+
+        <div  style=" margin:0px auto; "><small><a href="https://wpassist.me/plugins/countdown/" title="WordPress Countdown Plugin" class="countdown_infolink">i</a></small></div>
+<script>
+(function($){
+  $(document).ready(function($) {
+    var event_month = 10 - 1; 
+    $('#shailan-countdown--1_1').countdown({
+      until: new Date(2020, event_month, 24, 6, 0, 0, 0),
+      description: 'Until race start',
+      format: 'owdh'    }); 
+  }); 
+})(jQuery);
+</script>
+          </div>      
+											</div>						
+				</article>				<article class="post" class="post-content-area wow fadeInDown animated post-1330 post type-post status-publish format-standard hentry category-100m category-fuel category-gear category-nutrition category-training category-ultramarathon category-ultras tag-100-mile-race tag-100-mile-running tag-100-training tag-trailrunning tag-training-for-a-100-mile-race tag-ultramaraton" data-wow-delay="0.4s">				
+						<div class="entry-meta">
+		<span class="entry-date">
+			<a href="https://runsalty.com/2020/08/"><time datetime="">Aug 22, 2020</time></a>
+		</span>
+	</div>
+					<header class="entry-header">
+						<h3 class="entry-title"><a href="https://runsalty.com/2020/08/22/what-it-took-to-run-100-miles/">What it took to run 100 miles&#8230;</a></h3><div class="entry-meta">
+	<span class="author">By <a rel="tag" href="https://runsalty.com/author/dadigator/">TREX</a>
+	
+	</span>
+		<span class="cat-links">in<a href="https://runsalty.com/2020/08/22/what-it-took-to-run-100-miles/"><a href="https://runsalty.com/category/100m/" rel="category tag">100M</a>, <a href="https://runsalty.com/category/fuel/" rel="category tag">Fuel</a>, <a href="https://runsalty.com/category/gear/" rel="category tag">Gear</a>, <a href="https://runsalty.com/category/nutrition/" rel="category tag">Nutrition</a>, <a href="https://runsalty.com/category/training/" rel="category tag">Training</a>, <a href="https://runsalty.com/category/ultramarathon/" rel="category tag">Ultramarathon</a>, <a href="https://runsalty.com/category/ultras/" rel="category tag">Ultras</a></a></span>
+					<span class="tag-links">Tag <a href="https://runsalty.com/tag/100-mile-race/" rel="tag">100 mile race</a>, <a href="https://runsalty.com/tag/100-mile-running/" rel="tag">100 mile running</a>, <a href="https://runsalty.com/tag/100-training/" rel="tag">100 training</a>, <a href="https://runsalty.com/tag/trailrunning/" rel="tag">trailrunning</a>, <a href="https://runsalty.com/tag/training-for-a-100-mile-race/" rel="tag">training for a 100 mile race</a>, <a href="https://runsalty.com/tag/ultramaraton/" rel="tag">ultramaraton</a></span>
+				
+</div>	 
+					</header>				
+										<div class="entry-content">
+						
+<p>Now that I&#8217;ve done, both successfully and not so much, 100 mile races; I thought it might be useful to list out what has worked for me after a lot of trial and error.  Mostly error let&#8217;s be honest.  If you don&#8217;t have a solid experienced person who&#8217;s &#8216;done the run&#8217; to help you through it then it&#8217;s mostly error.  And honestly no one can really prepare you for pushing yourself to cover 100 miles, much less the 200&#8217;s.  It&#8217;s something that has to be experienced to truly understand it. </p>
+
+
+
+<p><strong>The Partner: </strong></p>
+
+
+
+<p>Honestly I think the number one thing that&#8217;s been of benefit to me is getting fortunate enough to find someone to make this insane journey to ultramarathonville with you.  Someone who runs the same pace, the same distances, the same everything, basically 2 people, 1 pair of feet. </p>
+
+
+
+<p>I know most ultras, especially front and mid pack, seem to be lone wolves.  They&#8217;ll hook up with someone for a mile or three or maybe 10 and some cases 20 but inevitably their mismatched pacing and goals pull them apart or just their solitary nature. </p>
+
+
+
+<p>And there&#8217;s nothing wrong with that.  But having someone to lean on, and that leans on your during the race can get you both through situations that would otherwise take you out if you were solo.  Most people I believe have the capability to be stronger for others than necessarily themselves.  I like to think so anyway.  So having someone who needs your help will help you to turn the knob to 11.  And on the flip side it can be greatly beneficial to hit an aid station and collapse knowing your partner has your back and will get you back up when it&#8217;s time to move on. </p>
+
+
+
+<p>I think ultimately it&#8217;s not very common for two or more runners to mesh their physical and mental abilities but if you can swing it then it&#8217;ll be a big boost for your chances to beat the odds. </p>
+
+
+
+<p>I believe the average success rate across all races and combining men and women is around 60%?   Some races are true monsters that eat runners up alive with success rates that are much lower than that and some are more benign and encouraging with higher success rates.   But in general, the odds are not great for the average runner especially the first timer.  So doing whatever you can stack the odds more in your favor may make the difference between the agony of defeat where you walk away with experience gained and the agony of success where you walk away with a buckle.   </p>
+
+
+
+<p><strong>Training: </strong></p>
+
+
+
+<p>It&#8217;s important to cater your training to you.  This seems like a simple thing but it&#8217;s easy to go online or in a book and take someone&#8217;s training regime, workouts and schedules and try to follow it.  This though can lead to injury depending on your level of ability as most of the training programs I&#8217;ve found seem to be strongly catering to podium chasers. </p>
+
+
+
+<p>If this is you then good on you friend.  But as a solid &#8220;back pack&#8221; in Ultra distances I quickly found I had to design workouts more in line with my abilities, my life and free time and quite frankly how much time I&#8217;m willing to devote to the cause. </p>
+
+
+
+<p>The variety of training methods is about as wide as the number of runners there are.  There are podium placers who rarely run longer than 20 miles as a training run and others who regularly do much more. </p>
+
+
+
+<p>So figure out what works for you and go with that. Which is no small task.  If you have the disposable income there can be a lot of benefit from getting guidance from an training coach that has real experience at training for ultras.  That last is key because training for a marathon is not the same as training for a 100 mile race. </p>
+
+
+
+<p>Over the last 2 years, which is how long it really took, I&#8217;ve made enough mistakes to finally figure out what training works for me.  What is at my borderline of injury and how hard I can push before I risk sidelining myself.  And it took injury and sidelining myself for sometimes up to 2 weeks at a time to figure that out.   (I know, 2 weeks, that&#8217;s just an extended recovery week, but to me it felt like 2 months). </p>
+
+
+
+<p><strong>Crewless: </strong></p>
+
+
+
+<p>If you&#8217;re going to be doing a 100 without a crew, <strong>100% doable</strong>, then just plan on spending more time &#8220;not moving&#8221;.   You&#8217;ll spend time getting gear out of your drop bags, filling bottles, changing shoes, etc.   A good crew can cut your time spent in aid stations by half or more and insure you leave each aid station with the right gear and nothing extra to weigh you down.</p>
+
+
+
+<p><strong>Pace plan: </strong></p>
+
+
+
+<p>A pace plan is a good idea but understand like with most plans it&#8217;ll break down as soon as you start running.  <strong>It&#8217;s almost 100% guaranteed you&#8217;re going to go out too fast </strong>and that&#8217;s going to cost you later on and there&#8217;s a pretty fair chance it could cause you to DNF.  Going out too fast IMO is the number cause of DNF&#8217;s based on the large number of race reports I&#8217;ve read.  </p>
+
+
+
+<p>I can&#8217;t tell you how many times I&#8217;ve read &#8220;I started at X minutes per mile, by mile 50 I was at x+3 minutes per mile, by mile 75 it was x+8 minutes and the last 25 was a dead man shuffle of 25minutes per mile&#8221;. </p>
+
+
+
+<p><strong>Pacing, pacing, pacing,</strong> if you want to successfully finish a race, regardless of distance but it&#8217;s critical ultras, then pacing is how you do it.  Too fast up front is NOT &#8216;banking time&#8217;.  It&#8217;s adding extra stress, fatigue and toxins to your body that you will 100% pay for later. </p>
+
+
+
+<p>Have a goal time and then break that down into thirds.   Then steal time from the first and add it to the 2nd, 3rd.  Then steal time from the 2nd and add it to the 3rd.   Example:  100 miles, 24 hours to make the math easy.  That&#8217;s 33 miles in 8 hours x 3.  Let&#8217;s steal an hour from the first one and split it up in to the last two.   So now we have 33 miles in 7 hours, 33 miles in 8.5 and 33 miles in 8.5.  Let&#8217;s steal half an hour from the second and add it to the third and we end up with 33 miles in 7 hours, 33 miles in 8 hours and 33 miles in 9 hours.   A 7/8/9 split is more realistic IMO than an 8/8/8. </p>
+
+
+
+<p>But I can&#8217;t do 33 miles in 7 hours on trails.  Then maybe a 24 hour 100 isn&#8217;t a good finish time for you.  So add half an hour to all three and shoot for a 25:30 finish.  </p>
+
+
+
+<p>That is a very general possible option to compute your 1/3 pace targets and doesn&#8217;t take into account any changes in terrain.   Once you add vertical or technical to your route then it can get &#8216;really&#8217; complicated on doing your pacing. </p>
+
+
+
+<p>Barring some weird terrain I&#8217;ve never seen anything remotely like equal splits much less negative splits in 100 mile runners times.   Prairie Spirit 100 for example gives you 14 hours to make the mile 52 turn around and 16 hours to make the back 48 for that reason.  They know if you can&#8217;t do 52 in 14, you&#8217;re not going to make the back side in 16.   For the majority of runners. </p>
+
+
+
+<p>Bottom line though is <strong>know your cut offs for every aid station</strong>.  Give yourself a 15-30 cushion for each and then print them out in large font on a piece of paper so you can read them in dim light and when you&#8217;re barely able to stand up.  </p>
+
+
+
+<p>Ultimately there are two things will DNF you in a 100 mile race.  You drop out due to any number of reasons or you fail to make the cutoff at an aid station.  So knowing your cutoffs may keep you moving whatever little extra you need to hit them.   I&#8217;ve seen runners who make cutoffs by literally a couple of minutes.  Myself I hit the mile 85(ish) aid station with 4 minutes to spare and ultimately didn&#8217;t make the mile 92 cutoff by about 10 minutes. </p>
+
+
+
+<blockquote class="wp-block-quote"><p>Personal observation &#8211; You think dropping out at mile 50 sucks?  Try missing mile 92 cut off by 10 minutes with 3 hours left to make that last 8 miles. </p></blockquote>
+
+
+
+<p><strong>Checklists: </strong></p>
+
+
+
+<p>Regardless of a crew or not, have a checklist for every aid station you&#8217;re going to spend any time in, the turn around where you swap gear out, whatever.  And for goodness sake use it.   It adds almost no extra time and it can save your race if you for example leave the turn around and forgot your head light and it gets dark and leaves moving at a crawl. </p>
+
+
+
+<blockquote class="wp-block-quote"><p>At our first 50 mile race, Rocky Raccoon, near the end after it got dark we ran into 3 people who were barely moving because it was pitch black and none of them had expected to be out in the dark.  They joined up with us for the final stretches to make it to the finish line.  I&#8217;m not sure they&#8217;d of finished in time if they&#8217;d been out there in the dark by themselves those last miles. </p></blockquote>
+
+
+
+<p>So have your &#8220;Don&#8217;t leave the aid station without doing this and packing that.&#8221; and <strong>USE IT. </strong></p>
+
+
+
+<p><strong>To the pain:</strong></p>
+
+
+
+<blockquote class="wp-block-quote"><p>&#8220;Life is pain, Highness. Anyone who says differently is selling something.&#8221;</p><cite>-The Dread Pirate Roberts</cite></blockquote>
+
+
+
+<p>Understand that <strong>pain in inevitable</strong>.  Your feet will hurt, your muscles will hurt.  Your joints will hurt.  Your tendons will make themselves known in ways you can&#8217;t imagine until it&#8217;s happened. Your brain will hurt.  You&#8217;ll have chafing that will make you scream when you get a chance to take a shower.  You&#8217;ll be nauseated and possibly be puking or dropping your shorts frequently (hopefully in time) over the course of the race and usually in the back half when you can barely drop into squat without swearing like a sailor.   You&#8217;ll have blisters big enough to hide a dog in.  Well one of those tiny purse dogs anyway.  </p>
+
+
+
+<p><strong>You&#8217;ll wonder why you&#8217;re doing this to yourself</strong>.   And if it&#8217;s not your first then add the tag line: Again.</p>
+
+
+
+<p> I&#8217;ve been in pain during ultraruns that honestly would knock a lot of people off their feet.  Pain at levels that prescription strength (legally obtained) narcotics didn&#8217;t touch. </p>
+
+
+
+<blockquote class="wp-block-quote"><p>Note: I would strongly advise any runner to not use anything stronger than OTC pain relief.  You can, maybe, dope yourself up to where you can keep going but also where you&#8217;re doing permanent damage to your body or least damage bad enough you&#8217;ll need significant care afterwards. </p></blockquote>
+
+
+
+<p>The bottom line is, expect discomfort.  Expect pain.  Expect to have an continual inner dialogue <strong>&#8220;Is taking this next step worth it?</strong>&#8221; for miles on end. </p>
+
+
+
+<p>So what to do about it? Learn to live with it and learn what you can safely do to knock the edge off it.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>&#8220;Make friends with pain and you&#8217;ll never be alone.&#8221;</p><cite>Ken Chlouber</cite></blockquote>
+
+
+
+<p>The safest, note I didn&#8217;t say safe, but the safest pain reliever available OTC for ultra runners is Acetaminophen, aka Paracetamol aka Tylenol.   The reason this is safer is because it&#8217;s processed by the liver.  All the other NSAID&#8217;s are processed by the kidneys.  During long distance running you&#8217;re stressing your kidneys pretty badly so throwing something else to be processed by the kidneys into the mix isn&#8217;t great.  Additionally something like Ibuprofen can act like a binder or glue with the myglobin molecules that are generated from muscle damage to make it harder for them to fit through the kidneys. </p>
+
+
+
+<p>If nothing else to take away from that just remember <strong>&#8220;Ibuprofen bad when running.&#8221;</strong></p>
+
+
+
+<p>This can all lead to a lot of bad things, the worst that I&#8217;m aware of being <strong>Rhabdomyolysis</strong>.  Rhabdo is when there&#8217;s so much myglobin in the blood that it chokes the tubes that make up the kidneys and its ability to filter your blood is greatly diminished.  The effects can range from bad to BAD aka dead. </p>
+
+
+
+<p>During ultrarunning it&#8217;s very important to pay attention to the color of your urine and the frequency of urination.  If it starts to get dark yellow then start being concerned.  If it turns the color of Coca-Cola then start being scared.   </p>
+
+
+
+<p>The solution is easy enough, hydration, hydration and hydration.   Don&#8217;t forget to hydrate!  And do not hydrate with just plain water unless you&#8217;re getting enough electrolytes through other sources as you can end up with something like <strong>Hyponatremia </strong>which can have impacts from bad to BAD aka dead and the loss of of enough electrolytes which are literally what help your electrical system operate to do things like make your heart beat which,yes same thing, bad to BAD. </p>
+
+
+
+<p><strong>Fueling: </strong></p>
+
+
+
+<p>It&#8217;s important to train fueling.  You need to find out ahead off race day what works well for you in terms off caloric intake, flavor, bulk, texture, nutrition etc.   And this can shift over time and effort.   What you feel like you can intake for days at the start of a 100 mile race makes you want to puke by mile 75.   So not only have a fueling plan but a back up plan. </p>
+
+
+
+<p>Improper fueling and hydration are the second leading cause to a really bad race and likely a DNF as well.   These two things are super critical.   No matter your pace, you&#8217;re going to be burning more calories than you can process per hour.  So you&#8217;re running at a deficit.  You make up the difference by converting fat into energy.  </p>
+
+
+
+<p>So training fasted and at sufficient distance to force your body to go through whatever carbs it has stored up and then have to dip into the fat stores is another crucial part of fueling.  The more used to turning fat back into energy your body is, the better off you&#8217;ll be in ultras.  </p>
+
+
+
+<p>Like everything about ultra marathons, you have train it it all.  Your digestion, fat conversion, pain tolerance, mental willpower, physical body, it is all a wonderful machine if you will that will let you cross the finish line.  Sometimes in good shape, sometimes in horrible shape, but in the end crossing that finish line before the cut off is the goal of a race. </p>
+
+
+
+<p>And in the journey you learn more than a little bit about yourself, win lose or draw. </p>
+
+
+
+<blockquote class="wp-block-quote"><p>Important tip:  Be wary of consuming a large quantity at one time and VERY wary of consuming strange things.   My first 100 mile race at the mile 25 aid station I had some dessert bread offered to me by the sweetest lady you could imagine.  And it was very good and I said so.  She gave me a big piece &#8216;for the road&#8217; which I ended up just eating it over the next mile since I didn&#8217;t want to waste it and didn&#8217;t have a great place to carry it.   For the next 50 miles that bread sat like a lump in my belly and caused me to cut way down on my intake waiting for it to process.   Ultimately it wasn&#8217;t what caused my DNF but it did add a bit of unpleasantness to the race.   </p></blockquote>
+
+
+
+<p>In general for fuel I depend on these after trying a lot of things: </p>
+
+
+
+<p>CBBJ or Cashew Butter, Banana, Jelly sandwiches.  I blend cashew butter, banana along with some honey and or maple syrup into a paste then use that along with some good elderberry or blackberry jelly on potato bread.   It&#8217;s a great source of carbs, fats, proteins and important electrolytes like sodium and potassium.    I&#8217;ll usually take half a sandwich an hour as about half my calorie intake for the hour. </p>
+
+
+
+<p>eGels by Crank Sports.  I just prefer these over other gels, better electrolytes and carbs, I like the basic flavors except the mountain dew one and in general they work for me.   I save these for when it feels like I&#8217;m starting to tank on energy.  </p>
+
+
+
+<p>I&#8217;ll also pack in my drop bags or carry with me one or more of the following &#8211; </p>
+
+
+
+<p><em>Sour Patch Kids Extreme, Candied Ginger, Gin-Gin ginger chews, Twizzlers, Werther&#8217;s, Clif bars. </em></p>
+
+
+
+<p>I think it&#8217;s important to mix it up on fuels.  For one reason, nutritionally to get a diversity of sources for all the things you need to sustain your efforts.  And for a larger reason so you will continue to fuel. </p>
+
+
+
+<p>One thing to note is try to stay ahead of the bonk.  <strong>It&#8217;s very hard to come back from a bad bonk from bad fueling or hydration</strong>.  And it&#8217;s never fun. </p>
+
+
+
+<p><strong>Hydration: </strong></p>
+
+
+
+<p>I don&#8217;t depend on fluid intake for my fueling, at least not solely.  There are runners, usually sponsored by Tailwind it feels like, that just fuel on fluids.  I can&#8217;t do that myself.  If you can swing it then great. </p>
+
+
+
+<p>I use drink mixes more earlier on during a 100 and prefer more plain water later on.   For drink mixes I use Pedialyte (orange and strawberry), Crank Sports eFuel (citrus punch) and EFS (fruit punch).  I portion these up into a bottle&#8217;s worth into small ziplock bags.   </p>
+
+
+
+<p>For the first 50-60 miles I typically carry a 500ml bottle of a mix and a bottle of plain water at one time and usually go through 500ml total every hour(ish) depending on weather.  When it gets hotter or sunbaked during the day I can easily up that to 1 liter per hour and even more during the summer.  </p>
+
+
+
+<p>After that first 100k or so I usually start leaning more on 1 bottle of mix to 2 waters.   To make sure my electrolytes are kept stocked up I add an Hammer Endurolyte Extreme once an hour. </p>
+
+
+
+<p><strong>Gear: </strong></p>
+
+
+
+<p>Let&#8217;s start the bottom and work up.  Each of these items is not the first or maybe not the 10th item I tried, I was rarely lucky with gear choices to get something that just worked the first time &#8211; </p>
+
+
+
+<ul><li>Shoes &#8211; For ultra&#8217;s I only use Altra Olympus or Hoka Clifton in Wide.  I&#8217;ve not found for me any other shoe that works as well for going stupid long distances.  </li><li>Socks &#8211; Injini toe socks under and Balega blister resist socks over.   Yes I double sock it for 100 miles.  </li><li>Shorts &#8211; Altra Trail shorts which are no longer made.   Once the pairs I have wear out I&#8217;ll probably use Brooks Sherpas which I use now for long training runs.  </li><li>Shirts &#8211; Honestly whatever fits the temperature of the race.  I do find that higher end shirts have a softer texture than cheap ones.  Not critical for short distances but for 100 miles that roughness adds up to chafing. </li><li>Hat &#8211; Halo skull cap or a buff in a cap configuration.  </li><li>Vest &#8211; Solomon Advanced Labs 12L 2019 version or Nathan VaporKrar.   Solomon preferred due to better pockets and storage. </li></ul>
+
+
+
+<p><strong>Misc &#8211; </strong></p>
+
+
+
+<ul><li>Poles &#8211; Leki folding poles because I like the way the hand straps unhook which means I use them as other poles I tend to not use the straps because they&#8217;re a pain to get my hands in and out quickly if I need to have a free arm. </li></ul>
+
+
+
+<p></p>
+											</div>						
+				</article>				<article class="post" class="post-content-area wow fadeInDown animated post-1328 post type-post status-publish format-standard hentry category-100m category-endurance-race category-gear category-trail-running category-training category-ultra category-ultramarathon category-ultras tag-100-mile-race tag-kansas-ultra tag-prairie-spirit-100 tag-rails-to-trails-100 tag-ultramarathon" data-wow-delay="0.4s">				
+						<div class="entry-meta">
+		<span class="entry-date">
+			<a href="https://runsalty.com/2020/08/"><time datetime="">Aug 13, 2020</time></a>
+		</span>
+	</div>
+					<header class="entry-header">
+						<h3 class="entry-title"><a href="https://runsalty.com/2020/08/13/two-months-out/">Two months out&#8230;</a></h3><div class="entry-meta">
+	<span class="author">By <a rel="tag" href="https://runsalty.com/author/dadigator/">TREX</a>
+	
+	</span>
+		<span class="cat-links">in<a href="https://runsalty.com/2020/08/13/two-months-out/"><a href="https://runsalty.com/category/100m/" rel="category tag">100M</a>, <a href="https://runsalty.com/category/endurance-race/" rel="category tag">Endurance Race</a>, <a href="https://runsalty.com/category/gear/" rel="category tag">Gear</a>, <a href="https://runsalty.com/category/trail-running/" rel="category tag">Trail Running</a>, <a href="https://runsalty.com/category/training/" rel="category tag">Training</a>, <a href="https://runsalty.com/category/ultra/" rel="category tag">Ultra</a>, <a href="https://runsalty.com/category/ultramarathon/" rel="category tag">Ultramarathon</a>, <a href="https://runsalty.com/category/ultras/" rel="category tag">Ultras</a></a></span>
+					<span class="tag-links">Tag <a href="https://runsalty.com/tag/100-mile-race/" rel="tag">100 mile race</a>, <a href="https://runsalty.com/tag/kansas-ultra/" rel="tag">Kansas Ultra</a>, <a href="https://runsalty.com/tag/prairie-spirit-100/" rel="tag">Prairie Spirit 100</a>, <a href="https://runsalty.com/tag/rails-to-trails-100/" rel="tag">Rails to Trails 100</a>, <a href="https://runsalty.com/tag/ultramarathon/" rel="tag">UltraMarathon</a></span>
+				
+</div>	 
+					</header>				
+										<div class="entry-content">
+						
+<p>So it&#8217;s two months out for what may, or may not, be our next 100.  The fall version of Prairie Spirit 100 aka Kansas Rails to Trails 100. </p>
+
+
+
+<p>We&#8217;re in month 3 ish of training and roughly 6 more weeks before we start tapering.   Because of WFH and the Covid&#8217;s I&#8217;ve been running every day.  The usual 4 days a week of actual training and the other 3 are just to keep the streak alive. </p>
+
+
+
+<p>Of note this time around is Rabbit and Bunny conspired to kill me for my birthday in July.  They both signed me up for VR runs.   Bunny&#8217;s was &#8216;just&#8217; 110 miles in 10 days.  With the caveat on day 1 you ran 2 miles, day 2 4 miles, day 3 6 miles until you finished on day 10 with 20 miles for a total of 110.  Oddly enough that was also almost the temperature those days.  </p>
+
+
+
+<p>It works out to a 100 miles in 7 days on the back side, technically 98 but I added a little extra to knock out my first 100 mile week .  </p>
+
+
+
+<p>Rabbit&#8217;s was &#8216;only&#8217; a 1 mile, 5k, 10k, half and full in the same month.  With riders on each one.   1 mile was to be a PR attempt.  I succeeded, surprisingly given the temperatures and RH but got it done.  The 5K was see how much elevation you get in 5K.  Not a huge amount, this is pretty flat area but we did get a reasonable amount.  The 10K was to run to someplace for food.  We ran and got icecream. 🙂  The Half was to run someplace I&#8217;ve never run before.  That wasn&#8217;t easy without traveling but I managed.   And the full was to be a &#8216;fun run&#8217; with Bunny.  Fun is certainly an interesting concept.   </p>
+
+
+
+<p>For Rails of the things we&#8217;re considering strongly is have a drop &#8216;pouch&#8217; at every manned aid station with 2 pre mixed bottles for the way out and 2 for the way back.  This helps cut down on minutes spent refilling or getting refills and minutes were literally the difference between our first DNF and running up against the cutoff at mile 92.   Imagine suffering for 92 miles and then having to quit because you&#8217;re 12 minutes late to the station with only 8 miles to go?  Yeah we&#8217;re keeping an eye on minutes now.</p>
+
+
+
+<p>A crew would be nicer, I&#8217;d love to hit an aid station and just walk through it trading used for new without having to stop but there&#8217;s also something about depending on no one but yourself, for good or bad.</p>
+
+
+
+<p>Another key thing is we&#8217;re going to do our overnight gear change at the mile 62(?) aid station, not the 52.  The reason is there are no GD bathrooms at the 52 so unless you want to show your ass off to people there&#8217;s no way to change into clean warmer gear for the night half.  Or you haul your gear down the block to the Taco Bueno, change then haul it back.  No thanks.   The mile 62(?) station has bathrooms, big ones.   So we&#8217;re going to just circle through the turn around and wait for better amenities.   </p>
+
+
+
+<p>Gear choices are only slightly changed from the last ultra we did, Snowdrop 55 but I&#8217;m gonna list them here &#8211; </p>
+
+
+
+<p>Shoes:  Altra Olympus 3.5&#8217;s and maybe 4.0&#8217;s.  The 4.0&#8217;s are not due to ship till September.  Another victim of the global impact on Covid I&#8217;m sure. I have two pair of 3.5&#8217;s, one with a fair bit of miles on it the other not too bad.  Hopefuly the 4.0&#8217;s will work for me and I can have a newer pair to use for the bulk of the miles. </p>
+
+
+
+<p>Socks:  Injinji&#8217;s of course.  Won&#8217;t use anything else for ultras. </p>
+
+
+
+<p>Shorts:  The Altra Trail 2.0&#8217;s (discontinued).   The Brooks are okay but once you go stupid long it&#8217;s the Altra shorts for me.  When they wear out I don&#8217;t know what I&#8217;m going to do. </p>
+
+
+
+<p>Shirt: REI long sleeve quarter zip (discontinued).  I have 4 of these, they&#8217;re stupid soft and comfortable.  I should have bought 20.</p>
+
+
+
+<p>Head: Halo skullcap, that rubber strip really does work to channel the sweat sideways and keeps it out of your eyes. </p>
+
+
+
+<p>Ears:  Trekz Aftershockz Air or Titaniums.  I can&#8217;t do in ear and I also want to be able to have my ears unplugged so I can hear the world. </p>
+
+
+
+<p>Vest:  Salomon Advanced 12L 2019 edition.  Storage and layout is the best out here for my needs. </p>
+
+
+
+<p>Poles:  Leki Shark folding poles.  I&#8217;ll be carrying these as emergency in case of injury, picking them up at the 62 mile station. </p>
+
+
+
+<p>Fluids:  Usual, Pedialyte (orange or strawberry), Crank Sports eFuel and water.  Alternate about 50/50 between plain water and flavored water.  As the day gets long and into the next tend to desire more plain than flavored which means I have to supplement with electrolytes and food based fuels. </p>
+
+
+
+<p>Electrolytes:  Hammer Endurolyte Extremes, nothing better in my experience. </p>
+
+
+
+<p>Foods:  Whatever&#8217;s at the aid stations with backup of DIY nutbutter mix (cashew butter, banana, maple syrup, salt and then either a high quality jam or cookie butter) on potato bread, a few Crank Sports eGels, Clif Bars and Ensure at the drop bags just in case nothing appeals. </p>
+
+
+
+<p>Meds: All the pain killers but focused on Acetominophin to keep kidney impact as low as possible but sometimes you gotta mix things up to come at severe pain from multiple directions. </p>
+
+
+
+<p>Electronics:  Pixel 2 for live tracking and status updates &#8220;Not dead yet&#8221;, Stryd Air for accurate pacing, Fenix 6X with my hand built ultra tracking datafield, Scosche 24+ just because I like to have HR data to look back on and likely a Gopro 8 to try and record the agony of a 100 miles. </p>
+
+
+
+<p>Misc:  Squirrel&#8217;s Nut Butter for anti chafing, for colder runs it&#8217;s better than Trail Toes, my preferred when it&#8217;s hot. </p>
+
+
+
+<p>And there you have my packing list for any given 100 mile race. </p>
+											</div>						
+				</article>				<article class="post" class="post-content-area wow fadeInDown animated post-1318 post type-post status-publish format-standard hentry category-medals tag-diy-medal-display tag-medal-display" data-wow-delay="0.4s">				
+						<div class="entry-meta">
+		<span class="entry-date">
+			<a href="https://runsalty.com/2020/05/"><time datetime="">May 3, 2020</time></a>
+		</span>
+	</div>
+					<header class="entry-header">
+						<h3 class="entry-title"><a href="https://runsalty.com/2020/05/03/medal-display/">Medal Display</a></h3><div class="entry-meta">
+	<span class="author">By <a rel="tag" href="https://runsalty.com/author/dadigator/">TREX</a>
+	
+	</span>
+		<span class="cat-links">in<a href="https://runsalty.com/2020/05/03/medal-display/"><a href="https://runsalty.com/category/medals/" rel="category tag">Medals</a></a></span>
+					<span class="tag-links">Tag <a href="https://runsalty.com/tag/diy-medal-display/" rel="tag">DIY Medal Display</a>, <a href="https://runsalty.com/tag/medal-display/" rel="tag">Medal Display</a></span>
+				
+</div>	 
+					</header>				
+										<div class="entry-content">
+						
+<div class="wp-block-image"><figure class="alignleft size-large is-resized"><img loading="lazy" src="https://runsalty.com/wp-content/uploads/2020/05/MedalDisplay-700x1659.jpg" alt="" class="wp-image-1315" width="350" height="830"/></figure></div>
+
+
+
+<p class="has-text-align-left">tl/dr; Made a medal display piece that I ended up liking and as it&#8217;s not something I&#8217;ve seen before I thought I&#8217;d share in case it sparks an idea for anyone else. I know for a lot of runners, medals are just a useless chocktke cluttering up the house but each one is a memory for me. Side Note: if you truly don&#8217;t want your medals there are non-profit organizations that will take them and put them to good use and use them to brighten the lives of children and adults with serious health issues.&nbsp;</p>
+
+
+
+<p>Over the weekend with all the races canceled I decided to drag out the medals and figure out a new way to display them. Every other option so far has just not been satisfactory, too big, bulky, can&#8217;t see the medals, whatever. The last one tore out of the wall. My primary goal was to keep the display in a reasonable dense fashion but to all each medal to be seen in all it&#8217;s cheap glory. And to have it self supported with at most a single screw to keep it from toppling over.&nbsp;</p>
+
+
+
+<p>To do that I purchased 3 pieces of 1x6x6&#8242; poplar from a big box store. Yes it&#8217;s not great wood, yes its stupidly over priced but I needed s4s because I lack such things as a jointer and planer and band saw and decent table saw and etc and so on.&nbsp;</p>
+
+
+
+<p>I ripped one of the pieces into roughly 1/3&#8217;s and these will be the sides and bracing giving me 1x1x6&#8242; and 2 pieces that were roughly 1x2x6&#8242;. The 1x1x6&#8242; I chopped into 3 pieces at 1x1x24</p>
+
+
+
+<p>The 2 side pieces I cut a 3/8&#215;3/8 rabbit in one side and also give me 2 long pieces to use for random trim.&nbsp;</p>
+
+
+
+<p>With the other two pieces I cut them into 6 total pieces that were 1x6x24 pieces.&nbsp;</p>
+
+
+
+<p>5 of these I &#8216;resawed&#8217; down the long center to give me a total of 10 pieces that were 3/8x6x24. It took two passes with my job site table saw and let&#8217;s just say they were not uniform thickness and call it a day.&nbsp;</p>
+
+
+
+<p>This display could also all be done as well using 1/2 or 1/4 plywood and 1&#215;2&#8217;s and a circular saw. Use the 1&#215;2&#8217;s for the frame and bracing and the plywood for the display pieces.&nbsp;</p>
+
+
+
+<p>So I now have &#8211;&nbsp;</p>
+
+
+
+<p>side frames &#8211; 1x2x6&#8242; x2</p>
+
+
+
+<p>back bracing &#8211; 1x1x24&#8242; x3</p>
+
+
+
+<p>front facing pieces &#8211; 3/8x6x24 x10</p>
+
+
+
+<p>shelf piece &#8211; 1x6x24&#8243;. x1</p>
+
+
+
+<p>Random trim &#8211; 3/8&#215;3/8&#215;6&#8242; x2</p>
+
+
+
+<p>Side Frames: For the sides cut a rabbit in two of them giving me a notch to set the display boards. I saved the cut out pieces for additional bracing and trim.&nbsp;</p>
+
+
+
+<p>Back Bracing: I used the third piece of the first board by cutting into 3 pieces and making half laps at the ends such that they would overlap the backbracing with a 1/4 thickness.&nbsp;</p>
+
+
+
+<p>I notched the back side of the frame pieces so they would clear the base moulding then glued the bracing pieces in 3 spots up the back. The 1/4&#8243; thick lap joint meant the side frames would stand away from the wall by about a 1/4&#8243; and it would be the bracing that touched it. I used a single 3&#8243; sheet rock screw through the top brace into a stud to hold it to the wall. I never use drywall anchors for anything much less anything heavy.&nbsp;</p>
+
+
+
+<p>I notched the shelf piece so it would fit in the rabbit a few inches from the top of the frame pieces, slid it into place and glued it. The top brace acts as a back stop to keep things off the wall.&nbsp;</p>
+
+
+
+<p>I then measured down the height of a standard racing bib and put in a piece of trim. Using about a 3/16&#8243; spacer I glued the 10 front paces in place in the rabbit of the frame pieces working from the top own. This left a few inch opening at the bottom. You could plan ahead and cut your frame sides down to minimize this. In end it doesnt bother me and I wanted the display to be as tall as it was.&nbsp;</p>
+
+
+
+<p>I used some of the random trim to put a lip around the shelf things wouldn&#8217;t fall off.&nbsp;</p>
+
+
+
+<p>I used some regular old nails to act as bib pins to hold the bibs.&nbsp;</p>
+
+
+
+<p>A couple of coats of poly and I called it done. There are no nails, biscuits, dowels in this build, it&#8217;s all Titebond II and is extremely sturdy. I&#8217;ve found the wood gives way before Titebond does.&nbsp;</p>
+
+
+
+<p>Medals are added by slipping the ribbons through the spacing between the display boards and letting them hang down behind the front panels out of sight. A small piece of foam is pushed into the gap to hold them in place. I thought about 3d printing some V shaped to act as spring pieces but the foam was handy and quick and worked really well.&nbsp;</p>
+
+
+
+<p>For smaller medals like 5K&#8217;s or from back when medals were just smaller you can stagger them and really pack them in a line. For the longer distance races or the egregiously large medals not much you can do, they take up a lot of space.&nbsp;</p>
+
+
+
+<p>While the foam piece worked for everything, it didn&#8217;t work for the little rock medal, the thing weighs like 3lbs. But I was able to loop the ribbon around that small trim piece at the top and simply tie it off.&nbsp;</p>
+
+
+
+<p>Anyway, I&#8217;ve never seen this kind of display before and in the end I kind of like it, it holds 3 years of medals for me in about as small an area as i might hope for while still letting me see each medal in it&#8217;s entirety.&nbsp;</p>
+											</div>						
+				</article>				<article class="post" class="post-content-area wow fadeInDown animated post-1301 post type-post status-publish format-standard hentry category-uncategorized" data-wow-delay="0.4s">				
+						<div class="entry-meta">
+		<span class="entry-date">
+			<a href="https://runsalty.com/2020/01/"><time datetime="">Jan 19, 2020</time></a>
+		</span>
+	</div>
+					<header class="entry-header">
+						<h3 class="entry-title"><a href="https://runsalty.com/2020/01/19/numb-toes-and-the-search-for-something-mighty-in-the-water/">Numb Toes and the search for something Mighty in the water…</a></h3><div class="entry-meta">
+	<span class="author">By <a rel="tag" href="https://runsalty.com/author/bunny/">Bunny</a>
+	
+	</span>
+		<span class="cat-links">in<a href="https://runsalty.com/2020/01/19/numb-toes-and-the-search-for-something-mighty-in-the-water/"><a href="https://runsalty.com/category/uncategorized/" rel="category tag">Uncategorized</a></a></span>
+	
+</div>	 
+					</header>				
+										<div class="entry-content">
+						
+<p>Okay I&#8217;ll start by
+saying this is a rant post, but also a call to anyone out there who might know
+of a better way.</p>
+
+
+
+<p>Since I am currently benched from running, due to continued neuropathy in my left foot which began somewhere around mile 40 of 111 at SnowDrop, I have decided to hit the pool for no-impact cardio, until such time as I can feel my toes again. I have been to an OMT, and a Chiropractor, and read every article I could find on the internet around what I have going on, and the bottom (of my foot) line is that it is nerve trauma or pinched either steaming from my L4 &amp; L5, or it is isolated to the foot. Given the medical treatment options for either of those areas, my best bet is to go the therapeutic route and give it time and see if it will heal on it&#8217;s own, which is typically what happens, and is recommended. So that leaves me little options but to strength train, stretch and do no impact to the likely traumatized areas.  So I borrowed an inversion chair from Trex and hang like a bat at least once a day in my garage. Thus far I don&#8217;t know that it&#8217;s helping, but it isn&#8217;t hurting, so great. </p>
+
+
+
+<p>That said I am more than a little worried about making cut-off times at our Prairie Grudge match, without being able to run between now and then.&nbsp;I am also worried about the further trauma that running 100 miles will cause, because I do still plan to run that race. I, like Trex, have observed the noticeable increase in my RHR, which means my endurance abilities are taking a hit. It&#8217;s a growing source of anxiety, among other things in my life, which running usually keeps at bay.  While my body is trying to heal, I really don&#8217;t need the added stress, so that leaves me trying to find other ways to drown my thoughts, and well, as much as I enjoy the ever so rare adult beverage, it would have the opposite effect on my healing tissues and mental health to hit the sauce, so that leaves the damn pool.&nbsp; </p>
+
+
+
+<p>Now, for the record, I love swimming as a sport. As mentioned before I was a competitive swimmer. It&#8217;s kinda a thing I was good at. But it&#8217;s not running, and I have a sh*t ton of running shoes and gear that will not do me any good in the water. So I need to seriously hit the water harder, which leads me to my rant…. </p>
+
+
+
+<p>In the last two decades I have moved away from owning music, in a library of files that I had to backup and copy from computer to computer, to become a completely iTunes free streaming consumer. It all started with Pandora, and then overtime I have become a paid Amazon Unlimited customer. I recently added the Garmin Fenix 6 to my gear list, which solved the problem, for me, on how I could ditch my phone for my runs and Bluetooth my Amazon Music playlists offline to my wireless headphones. Yeah me. It only cost around $750 to get a few more bells and whistles which I also use for playing in the mud, not just listening to music.</p>
+
+
+
+<p>The problem is that my Garmin plays music to my headphones via Bluetooth, which doesn&#8217;t work underwater. Trust me, it&#8217;s just the laws of physics at play here, not user error.&nbsp; As stated above, I do not own any MP3 music anymore&#8211;retiring my iPod years and years ago, so the current &#8216;SwimP3&#8217; options that are pretty much what swimmers are forced to use, don&#8217;t fit my needs as a music streamer at all. This &#8216;option&#8217; basically requires you to download a Ripper / Recorder software to your computer and then to &#8220;record&#8221; streamed music songs from YouTube to MP3 files. A) I am not sure how legal all that is. B) That sets me back a decade to when I dumped my music library, and C) I don&#8217;t have the time or patience for all that hoopla [Insert Sweet Brown Meme here].&nbsp; <strong>Seriously is pool tech more than a decade behind???</strong>  </p>
+
+
+
+<p><strong>Insert Temper Tantrum Image Here</strong></p>
+
+
+
+<p></p>
+
+
+
+<p>That question landed me to searching around for other streaming devices that might be on the market. So frankly when I became aware that today there exists only one option, the Delphine Waterproof MicoTablet ($200), at least that I could find, that allows you to play either encrypted offline stored or online music from a Streaming service like Amazon and Spotify on a waterproof devices with wired headphones I was more than a little annoyed.&nbsp;&nbsp; While it seems like a good idea, frankly the concept of the touchscreen for sport usage doesn&#8217;t execute well, especially on a device worn on your head in the water.  </p>
+
+
+
+<p>So I continued my search, surely someone else out there has needs like me, who can&#8217;t use their phone, or their watches to play their music and who just need a simple, easy to use, reasonably priced,&nbsp; device that is capable of storing the encrypted files from streaming services for offline playback.&nbsp; Well it turns out there are other people out there who think that it is a <a href="https://bemighty.com/products/mighty-vibe"><strong>Mighty</strong></a> good idea to ditch their phones for a tiny lightweight audio player for rugged athletic use. I am referring to the good people at Mighty Audio who have brought us the Mighty Vibe (no, it&#8217;s not the adult device you are thinking of, it&#8217;s also great for kids too. Okay ya worse still I know. Way worse!) </p>
+
+
+
+<p>It is 99% what I am
+looking for, it&#8217;s just not waterproof, although it is water resistant.&nbsp; So that took me to their Contact Us page to
+ask the question:&nbsp; </p>
+
+
+
+<blockquote class="wp-block-quote"><p>&#8220;Does the Mighty Team plan to make a waterproof IX7 or 8 rated version of your product for use underwater (aka lap swimming) with wired waterproof headphones like the Swimbuds? If not PLEASE PLEASE PLEASE, I am begging you to consider us poor water treaders. We need you! If by some miracle your amazing team is way ahead of me on this one, first let me say THANK YOU. Second, any idea when we could maybe hope to see such a device hit the virtual shelves? And third, is there any chance I could help you beta test it?&#8221;</p></blockquote>
+
+
+
+<p>I will post an update if I hear anything back.&nbsp; In the meantime I have ordered from Amazon, two separate stupid damn waterproof swiMP3 devices, H2o Audio&#8217;s <strong>STREAM</strong> w/ waterproof wired headphones, and a pair of <strong>Aftershokz Xtrainerz</strong>.&nbsp;&nbsp; I ordered the first because it would arrive fast, and was $60 cheaper than the Aftershokz. But afterwards, I debated that decision.&nbsp; The first device I ordered fits on my goggles on the back of my head, and according to some reviews, because it is Bluetooth enabled, it can reach your phone on the side of the pool since it is typically above water, and the headphones are wired. But, honestly I don&#8217;t see me wanting to use this for running or working out. It would only really have the one use. So after I ordered it I begrudgingly decided to get the Aftershokz instead. Although they are pricey, and they don&#8217;t have Bluetooth&#8211;I am sure they did this so people wouldn&#8217;t try to use it in the water and send it back; I can still use them for running and working out at the gym, I just can&#8217;t get calls from my cell phone, not a huge issue but annoying. Sigh. In for a pound in for a penny. </p>
+
+
+
+<p>So I will be spending my one Mom day off this year (MLK Day), searching for and recording songs down to mp3 from YouTube, so I can use songs to put on the headphones when they arrive. This is going to take precious hours, hours of my life I will never get back, all because there isn&#8217;t a decent, simple waterproof solution yet on the market. Seriously I feel like a kid waiting with my finger on the Play and Record button listening to the radio. </p>
+
+
+
+<p>Hopeful for better pool tech news for 2020, and or for feeling in my toes</p>
+
+
+
+<p>Sincerely,</p>
+
+
+
+<p>(Sad) Bunny</p>
+											</div>						
+				</article>				<article class="post" class="post-content-area wow fadeInDown animated post-1268 post type-post status-publish format-standard hentry category-100m category-injury category-mistakes category-ultramarathon" data-wow-delay="0.4s">				
+						<div class="entry-meta">
+		<span class="entry-date">
+			<a href="https://runsalty.com/2019/11/"><time datetime="">Nov 7, 2019</time></a>
+		</span>
+	</div>
+					<header class="entry-header">
+						<h3 class="entry-title"><a href="https://runsalty.com/2019/11/07/pain-says-a-1000-words/">Pain says a 1000 words, or not a 100 miles&#8230;</a></h3><div class="entry-meta">
+	<span class="author">By <a rel="tag" href="https://runsalty.com/author/dadigator/">TREX</a>
+	
+	</span>
+		<span class="cat-links">in<a href="https://runsalty.com/2019/11/07/pain-says-a-1000-words/"><a href="https://runsalty.com/category/100m/" rel="category tag">100M</a>, <a href="https://runsalty.com/category/injury/" rel="category tag">Injury</a>, <a href="https://runsalty.com/category/mistakes/" rel="category tag">Mistakes</a>, <a href="https://runsalty.com/category/ultramarathon/" rel="category tag">Ultramarathon</a></a></span>
+	
+</div>	 
+					</header>				
+										<div class="entry-content">
+						
+<figure class="wp-block-image"><img loading="lazy" width="700" height="467" src="https://runsalty.com/wp-content/uploads/2019/11/KRT-2019-JK-2767-700x467.jpg" alt="" class="wp-image-1270"/></figure>
+											</div>						
+				</article>				<article class="post" class="post-content-area wow fadeInDown animated post-1259 post type-post status-publish format-standard hentry category-100m category-gear category-mistakes category-race-report category-trail-running category-ultramarathon tag-100-mile-race tag-kansas tag-kansas-rails-to-trails tag-race-report tag-ultra-marathon tag-ultramarathon" data-wow-delay="0.4s">				
+						<div class="entry-meta">
+		<span class="entry-date">
+			<a href="https://runsalty.com/2019/10/"><time datetime="">Oct 30, 2019</time></a>
+		</span>
+	</div>
+					<header class="entry-header">
+						<h3 class="entry-title"><a href="https://runsalty.com/2019/10/30/kansas-rails-to-trails-race-report/">Kansas Rails To Trails Race Report</a></h3><div class="entry-meta">
+	<span class="author">By <a rel="tag" href="https://runsalty.com/author/dadigator/">TREX</a>
+	
+	</span>
+		<span class="cat-links">in<a href="https://runsalty.com/2019/10/30/kansas-rails-to-trails-race-report/"><a href="https://runsalty.com/category/100m/" rel="category tag">100M</a>, <a href="https://runsalty.com/category/gear/" rel="category tag">Gear</a>, <a href="https://runsalty.com/category/mistakes/" rel="category tag">Mistakes</a>, <a href="https://runsalty.com/category/race-report/" rel="category tag">Race Report</a>, <a href="https://runsalty.com/category/trail-running/" rel="category tag">Trail Running</a>, <a href="https://runsalty.com/category/ultramarathon/" rel="category tag">Ultramarathon</a></a></span>
+					<span class="tag-links">Tag <a href="https://runsalty.com/tag/100-mile-race/" rel="tag">100 mile race</a>, <a href="https://runsalty.com/tag/kansas/" rel="tag">Kansas</a>, <a href="https://runsalty.com/tag/kansas-rails-to-trails/" rel="tag">Kansas Rails to Trails</a>, <a href="https://runsalty.com/tag/race-report/" rel="tag">Race Report</a>, <a href="https://runsalty.com/tag/ultra-marathon/" rel="tag">Ultra Marathon</a>, <a href="https://runsalty.com/tag/ultramarathon/" rel="tag">UltraMarathon</a></span>
+				
+</div>	 
+					</header>				
+										<div class="entry-content">
+						
+<p>AKA how to not finish a 100.  Long story short, we DNF&#8217;d.   Read below for more details of the race, our race and the gear used &#8211; </p>
+
+
+
+<p><strong>The Race review (nothing personal)</strong> &#8211; It&#8217;s a well run race, with sufficient manned and unmanned aid stations.   The course is easily runnable by anyone, the surface is probably 98% packed gravel (almost old asphalt like in some sections) with some paved areas in the towns and where the path weaves under the highway from time to time.   The trail won&#8217;t slow you down. </p>
+
+
+
+<p>Check in, packet pickup was done smoothly and well, no major roadblocks there.    The pasta dinner was plentiful although not gourmet but sitting and talking to other runners over some canned sauce is worth the price of admission and then some.  There were a lot of &#8216;firsts&#8217; there.   One couple we talked to, the woman had to drop from the hundred due to being pregnant and her and her S.O. were just going to walk up out to the turn around for one of the short distances, have lunch in the town and then walk back.  Bravo for her for making that choice and him for supporting it. </p>
+
+
+
+<p>Drop bags made it without issue to the locations we had ours, no complaints.   It&#8217;s possible to have a drop bag at every manned station which isn&#8217;t something we&#8217;ve personally seen before.   We just had 2 bags, one for the 25/75 station and one at the turn around. </p>
+
+
+
+<p>The scenery is&#8230; Kansas.  After the first mile you&#8217;ve seen all the variety you&#8217;re going to see.   There are sections where the trail bed drops off fairly sharply on one side or the other so some level of care should be taken to stay between the lines but the path is 6 to 8 feet wide for all of the route. </p>
+
+
+
+<p>It&#8217;s important to note that the outbound 51 miles is where most of the 1100 vertical contained.   You&#8217;re almost constantly going up hill even if it&#8217;s only slightly so the first half + of the race.   </p>
+
+
+
+<p>The aid stations were reasonably well stocked and included the typical options.   The second aid station had figured out exactly the best way to offer raman.  Cook the noodles and strain and portion them out into cups and keep the broth heating separately.  When you take some, add some broth back to the noodles and they&#8217;re the perfect temperature and not so overcooked they&#8217;re like mush.   I wish and hope that other RD&#8217;s will pass this on to all their AS&#8217;s and each other. </p>
+
+
+
+<p>The volunteers were on par with any other ultra we&#8217;ve run although I&#8217;d like to call out the two volunteers at Richmond trail head who were there when I staggered in 2 minutes before the cut off.   The only way they could have been more helpful was to craft a palanquin out of the picnic table I was flattened out on and carried me to the next aid station on their shoulders.   I didn&#8217;t get a chance to catch their names but they were outstanding in their care, their courtesy and their &#8220;the next cutoff is going to be tight, you should probably be moving&#8221; encouragement after I&#8217;d been laying there all of 2 minutes.   We love it when the volunteers are obviously either runners themselves or they&#8217;ve crewed runners before and are aware of the technical parts of ultra running, not just how to make you feel welcome and get you food and fluids. </p>
+
+
+
+<p>There are bathrooms at the manned aid stations except perhaps the most critical one, the 51.2 mile turn around.  There are no public bathrooms here and there were no porta-potties.  While it&#8217;s quite possible there are ordinances preventing placing porta-potties in a park this lack was noticed.  Especially for those who were replacing everything to deal with the upcoming drop in temps for the night.    </p>
+
+
+
+<p>There was sufficient water at the water stops.  I do have a trivial to most, kind of a pain for me, complaint in that most if not all of the water jugs used for the unmanned water stops were filled from a garden hose.  They all had that &#8220;it&#8217;s hot mowing out here, I&#8217;m just going to take a drink from the hose that&#8217;s been laying in the sun, oh my that&#8217;s nasty&#8221; taste.  For whatever reason I really do not like the taste of hose water so this was an ongoing problem for me.  It wasn&#8217;t super impactful just kept me going &#8216;yuck&#8217; every time I drank it.   After awhile I&#8217;d keep one bottle in reserve of good water obtained from the manned stops to reduce the amount of rubber water I was drinking. </p>
+
+
+
+<p>So if you&#8217;re looking for a 100 mile course as a first time course or just a affirmation race after a DNF of a more technical one, the Kansas Rails to Trails / Prairie Spirit has no serious downside other than it&#8217;s not a &#8216;destination race&#8217;.  You won&#8217;t be presented with some grand vistas or gorgeous waterfalls or painted rocks.   But if you just want to endure a 100 mile race at an easier pace than is required for a lot of them or just want to PR that bitch of a distance then give it a shot. </p>
+
+
+
+<p><strong>Now let&#8217;s get personal &#8211; </strong></p>
+
+
+
+<p style="text-align:left">3 days ago we DNF&#8217;d our first attempt at a 100 miles.   This was at the Kansas Rails to Trails 100 Mile Race as it&#8217;s known in the fall.  The same race occurs in the spring as Prairie Spirit 100 Mile Race.   Different buckles, same everything else. </p>
+
+
+
+<p>Bunny and I have spent the last year training for this race.   We did the miles, 1100ish this year , we worked out nutrition and hydration, gear selections.  We put in the sprints, the hills, the tempo runs, the back to backs, the overnights, the long runs, the short runs.   2 days a week at the gym for strength training.  We ran our first 50 mile race this year, our first 24 hour race, my first triple back to back to back race weekend.   A lot of miles, gallons upon gallons of sweat, and a whole of time going over the same local running paths and trails. </p>
+
+
+
+<p>And we went into this race feeling we were ready.   My primary concern going into it was sticking with the pace plan to get us to the first of many cut offs at the turn around at mile 51.2.    I created a pacing chart that I had every expectation would see us finishing with an easy pace but plenty of cushioning to not have to worry about cut offs.  We have Snowdrop 55 coming up in 2 months and I didn&#8217;t want a lot of recovery time so we could use this more as a training run than a finishing run.   I was honestly expecting to finish in around 27-28 hours and enjoying the experience as much one can enjoy this ridiculous sport we claim to enjoy. </p>
+
+
+
+<p>And up till the turn around we did accomplish these goals without any issues.   We &#8216;stuck the landing&#8217; on the turn around precisely on point and still feeling pretty good about things with a projected finish time of 27 hours.  I was dealing with some food issues, too many calories too early that were sitting in my stomach and refusing to either get digested or come back out.  </p>
+
+
+
+<p>I had a minor problem really from mile 30 onward I primarily subsisted on water, saltstick chews, hammer endurolyte extremes and candied ginger.   At the AS&#8217;s I would add some calories, not a lot but enough to keep things in the processing pipeline while waiting for that lump of lead homemade goodness of pumpkin bread and cookies to get processed.  I kept it to no more than  half a baby potato dipped in salt or 4 chips or a half cup of the raman broth.   There wasn&#8217;t really any time during this nutrition shortage that I felt short on nutrition, my fat burning was taking care of energy needs.  </p>
+
+
+
+<p><em>Even with that, we ran our 2nd fastest Marathon distance and our fastest 50 mile distance in the first half of this race</em>.  So that to me validates our training if nothing else.   We&#8217;re getting better. </p>
+
+
+
+<p>Around mile 60-65 things started to clear up digestion wise, the backlog of calories was moving through.   But that&#8217;s when, figuratively thankfully, &#8220;shit happens&#8221;.   At the 51 mile turn around I picked up poles to use.  My thought was these would transfer a minor bit of effort from the legs to the upper torso during the walk segments.   We&#8217;ve used them for ascents and descents before and the back 25 miles of the ROcky 50 without any problems.  </p>
+
+
+
+<p>I thought the poles were safe&#8230;</p>
+
+
+
+<p>What I believe in hindsight that they did was also transfer a minor bit of stress to my lower back.   By mile 65 my back was hurting.  As both a tall and sideways big ass runner my whole life living in an average sized world I&#8217;ve had back problems.   By mile 75 my lower back was excruciatingly painful.    I couldn&#8217;t straighten up at this point without external assistance in the form of a wall or floor.    I would take the occasional opportunity to lay flat on a bench when we passed one to give it small break but the relief this was getting me lasted for shorter and shorter time frames until eventually I&#8217;d literally just stumble/slam into the side of a bridge or one of the entry barriers and hang off it for a few moments trying to straighten and get even a second&#8217;s relief. </p>
+
+
+
+<p>Without any risk of exaggeration this was some level 10 pain that I endured for several hours.   But as long as we had a shot at making the cutoffs there wasn&#8217;t any chance I was going to stop, too much, too far to get to this point.  That&#8217;s not to make me sound like a bad ass, I&#8217;m not, I can just tolerate pain when the potential reward is worth it, I take a couple of aspirin for a minor headache like everyone else.   But I was literally throwing a pharmacy at this pain and it wasn&#8217;t touching it.  A smorgasbord of over the counter, hard core prescription pain relief and muscle relaxers (all legally obtained and prescribed), didn&#8217;t even dent it.   </p>
+
+
+
+<p>And yes I know you shouldn&#8217;t do this, that you can dull pain to the point of real injury, even permanent injury, let&#8217;s all agree this is bad and not something anyone should ever do. </p>
+
+
+
+<p>Bunny was having to act as a human bumper to keep me from going off the path.   If you&#8217;ve never run this trail there are sections with a fairly sharp, fairly deep drop off on one side or the other at times and she&#8217;d get between me and the edge and bump or pull me back toward the center of the track.   I was unable to move in a straight line, what would have happened if she hadn&#8217;t of been there&#8230; well it might have gotten ugly to say the least. </p>
+
+
+
+<p>While that may not sound like much, I outweigh her by 80 lbs at least.  And she was putting in every mile, every hour I was and carrying just as much gear.  So keeping me from going off the rails wasn&#8217;t an insignificant task. </p>
+
+
+
+<p><strong><em>I&#8217;ll stop here to say that guys and gals, if you get lucky enough to find a ultra running partner who you can depend on through good and bad times, who is there every step of the way make sure you fully appreciate just how lucky you are.  Finding someone to pace you that last 25 miles is hard enough, finding someone to run at your side for a 100 miles, to give you the freedom to push yourself to the point of destruction by taking on the burden of &#8216;keeping you between the lines&#8217; is unbelievably rare. </em></strong></p>
+
+
+
+<p>At 26 hours, 46 minutes we were still 2 miles short of the last cut off.   I&#8217;ve never run a 6 minute mile in life much less 2 of them back to back at miles 92-93.   I knew we were done and with that realization I knew I could not go another step forward without going face down, my arms were toast from trying to support my torso for so long and my lower back and down into my glutes and hip stabilizers was a black hole going nova of pain (or for the nerds it felt like what I imagine is the end result of putting a bag of holding into a dimensional hole) so I went down intentionally to lay on my back on the trail to find some relief so we could finish that last 2 miles where the only thing waiting us was to get pulled for time.   And the worst part?  We were <em>still on pace to finish the race in about 29:30</em>, it&#8217;s just that last cut off killed any chances of getting to use the last 3 hours to finish. </p>
+
+
+
+<p>A law enforcement vehicle had been running drag on us, stopping at each crossroads to pick up the water jugs at the unmanned stops as as everyone behind us had either dropped prior or been pulled at the last check point.  He was kind enough to cut the misery short by a bit and took us into Princeton and checked us in then dropped us off at the start.  Bunny arranged for that, it is just a haze of pain for me.  If I&#8217;d of been clear minded my own stubborn pride to the point of stupidity would have stepped in and said, no I&#8217;m going to keep walking till they pull my stupid dying ass off the course but I wasn&#8217;t quite of sound mind at that point. </p>
+
+
+
+<p>I can&#8217;t say I&#8217;m not disappointed in that my mistakes cost Bunny her first buckle and to a lesser extent me as well.  I can say I put everything I had into that run and pushed through more than I thought I could, and I think highly of myself, so that&#8217;s something.   At no point did the thought of dropping out or calling it quits enter my head and that&#8217;s something even more. </p>
+
+
+
+<p>I can say we&#8217;ve already micro-analyzed the race, the obvious and non-obvious mistakes, the moving versus non-moving time, what we can do to fix those problems so that at the next race we reduce the wrong and increase the right.   </p>
+
+
+
+<p>Ultimately this failure is just the first.  There may be more failures, RNGesus with the weather, terrain, mistakes will factor in that result ratio, but there will 100% be more attempts. </p>
+
+
+
+<p><strong>Technical stuff &#8211; </strong></p>
+
+
+
+<p>For this race I carried the following things, not everything was used.  Each entry has a note of some kind indicating my thoughts on it&#8217;s usefulness or ability to do what I asked of it &#8211; </p>
+
+
+
+<p><strong>Clothing:</strong></p>
+
+
+
+<ul><li>Altra Trail Shorts 2.0 &#8211; No longer made which is a damn shame.   The best shorts I&#8217;ve found for me.  When mine wear out it&#8217;s going to be a sorry ass day, literally.   Wore these the entire run.   No chafing. </li><li>REI Quarter Zip &#8211; No longer made (see above).   Super soft hand, lightweight, wicking, drying.  The perfect long sleeve shirt.   </li><li>Under Armor Cold Gear Shirt &#8211; Perfect weight for the night time run, was able to get by with just this and a vest.  </li><li>Brooks Thermal Cascadia Vest &#8211; Used this during the night when temps dropped into the low 40&#8217;s to high 30&#8217;s.   Combined with the UA shirt was perfectly comfortable. </li><li>Injinji medium weight trail crew socks first layer, Balega no show medium weight outer layer &#8211; Went with two pair of socks for cushion value.  They DID NOT prevent blistering on the outer sides of heels from all the walking we ended up doing.   I do not normally get blisters except on stupid long runs when I end up doing a lot of walking and then it&#8217;s on the outside of my heels where there&#8217;s more rubbing due to heel striking. </li><li>Buff &#8211; Standard buff, used during the night worn on the neck. </li><li>Halo head wrap &#8211; Love these for their ability to keep sweat out of my eyes.  That weird rubber band thing actually works as I have some old ones the rubber band has come off and I get sweat in my eyes if I wear those. </li></ul>
+
+
+
+<p><strong>Shoes &#8211; </strong></p>
+
+
+
+<ul><li>Altra Olympus 3.5 x 3 &#8211; I started in a size 13 which is my nominal size then switched to size 14&#8217;s at mile 25 and mile 50.    The thought was to have as much cushion as possible for my feet and it worked out well for me. </li></ul>
+
+
+
+<p><strong>Misc Gear &#8211;</strong> </p>
+
+
+
+<ul><li>Squirrels Nut Butter &#8211; Liberally applied at race start at every possible chafing location.  No chafing as a result.   Previous winner was Trail Toes but I&#8217;ve found SNB to be better for me personally although it doesn&#8217;t do well in the cold as it gets rock hard in the jar so carry it in a small zip lock on your person if you need to apply during a race so it stays warm. </li><li>Salomon 2019 12L vest &#8211; First time wearing this for an ultra race.   In my opinion of the vests I&#8217;ve used it has the best and most efficient layout of storage spaces.  If you can&#8217;t get everything you need in this thing then you&#8217;re running for days, not hours.   Almost everything is very well thought out for my needs.  My biggest gripe is the strap system to fasten it on but then I have this same complaint about most vests.  Only the Nathan&#8217;s get it right and have clasps that are as easy to use when you start as when you&#8217;re staggering after 25 hours of running. </li><li>Paria Outdoor Products &#8211; collapsible carbon poles.  I&#8217;ve put a fair number of miles on these poles and while I directly attribute them as the cause of my DNF for this particular race it is NOT for any fault of the poles, just my lack of training with them over long flat distances. </li><li>Trekz Titanium Headphones &#8211; Carried but never used.  When I wanted music I just played it on the speaker of my phone for both Bunny and I to share.   Still enjoy them.</li><li>Pixel 2XL &#8211; Carried to enable live track so friends and family could keep track of us.  Found out the hard way that live track only lasts for 24 hours.  So much for that.   Also used for music which sounds good enough for phone. </li><li>Zebra headlight &#8211; H600FW to be exact.   This light lasted the first hour+ of the race and then about 8 hours of the night on the same battery on medium.  It puts out a metric crapton wave of floody light in front of you at this light setting and weighs virtually nothing and comes with a very comfortable head strap.  It&#8217;s not a &#8216;runners&#8217; light, it&#8217;s more of a hunting / tactical quality light which is why I think it works so well.  It&#8217;ll go a couple or three hours on high and you&#8217;ll light up the immediate area like a car would. Highly recommended.   If you want a long throw then get a different model though, i prefer to see everything in a hemisphere around me for 50 yards than a narrow beam for 150 yards. </li><li>Goodr BFG Sunglasses &#8211; Very overpriced for the quality but they get the job done and if you drop them on a rocky section and scratch the crap out of them you&#8217;re only mildly annoyed rather than going &#8220;!(@&amp;)&amp;!%##!! that&#8217;s $150 down the toilet!!!!111!&#8221; that you might do for any of the higher end sun glasses.   I consider them disposable and if I get a year+ out of them before they get scratched up then they served their purpose. </li><li>Stryd Foot Pod &#8211; No better device for accuracy for distance and speed.   Downside is the battery only lasts about 14-15 hours so you will have to recharge or use an alternate method. </li><li>Garmin Fenix 6X &#8211; No better watch ecosystem for me and the way I run and train.   The current iteration, the 6 series will give you second by second GPS for up to 60+ hours.   (note live track burns into this by a fair bit).   If you need more than 60 hours of continuous GPS tracking  without having any downtime to throw the watch on a charger then you&#8217;re beast mode and probably don&#8217;t need GPS. </li></ul>
+
+
+
+<p><strong>Nutrition &#8211;</strong></p>
+
+
+
+<p>Note not all of this was used this race but it has been used at some points and tested well with us &#8211; </p>
+
+
+
+<ul><li>NB&amp;J sandwiches &#8211; specifically Cashew butter + high end jam + banana + honey + maple syrup + salt on potato bread.   These turned out to be the best options of the various PB&amp;J&#8217;s we tested. </li><li>Candied / Crystalized Ginger &#8211; Eat a piece with every fueling to enjoy less stomach distress and get some spicy tasty calories. </li><li>EFS Fuel &#8211; A high potency drink mix of all the electrolytes, BCAA&#8217;s and other things you&#8217;re burning through.    Best flavor is the fruit punch in our opinion. </li><li>PediaLyte &#8211; Doesn&#8217;t have everything you need but sometimes you just want to hydrate and this does the trick and with a flavor profile tailored to appeal to people who aren&#8217;t currently feeling their very best. </li><li>Strawberry Newtons &#8211; Good but not sure I&#8217;d take them again, they ended up tasting too sweet oddly enough during the run. </li><li>Peanut Butter M&amp;M&#8217;s &#8211; Usually highly tasty but like the newtons they ended too sweet, won&#8217;t take again. </li><li>Stinger Waffles / Stroupwaffles (generic) &#8211; Were eaten during the run, not critical but does provide variety. </li><li>Cliff Nut Filled bars &#8211; Only had 1 out of 4 and only half of that one.   Decided they&#8217;re good for a short run but too heavy for a long run.  Won&#8217;t bother with them again. </li><li>Ensure Enliven &#8211; Used these 3 times for a heavy hit of calories and electrolytes and fluid replacement.   Not great warm.   I&#8217;ve used these twice now on runs of 80+ miles and for me they seem to work well. Bunny doesn&#8217;t get along with them as much, too many calories in one sitting.</li><li>And lastly at the Aid Stations I primarily had small amounts of boiled potatoes liberally smushed into salt, ramen broth (fluids, salt and warmth), potato chips (no more than 4) and never all of that at the same time. </li></ul>
+											</div>						
+				</article>				<article class="post" class="post-content-area wow fadeInDown animated post-1251 post type-post status-publish format-standard hentry category-100m category-running-partners category-training category-ultramarathon" data-wow-delay="0.4s">				
+						<div class="entry-meta">
+		<span class="entry-date">
+			<a href="https://runsalty.com/2019/10/"><time datetime="">Oct 22, 2019</time></a>
+		</span>
+	</div>
+					<header class="entry-header">
+						<h3 class="entry-title"><a href="https://runsalty.com/2019/10/22/things-unfinishedmy-why/">Things unfinished…My Why</a></h3><div class="entry-meta">
+	<span class="author">By <a rel="tag" href="https://runsalty.com/author/bunny/">Bunny</a>
+	
+	</span>
+		<span class="cat-links">in<a href="https://runsalty.com/2019/10/22/things-unfinishedmy-why/"><a href="https://runsalty.com/category/100m/" rel="category tag">100M</a>, <a href="https://runsalty.com/category/running-partners/" rel="category tag">Running Partners</a>, <a href="https://runsalty.com/category/training/" rel="category tag">Training</a>, <a href="https://runsalty.com/category/ultramarathon/" rel="category tag">Ultramarathon</a></a></span>
+	
+</div>	 
+					</header>				
+										<div class="entry-content">
+						
+<p></p>
+
+
+
+<p>Monday, October 21, 2019  9:09 PM </p>
+
+
+
+<p></p>
+
+
+
+<p>With less than 5 days left before I toe the line of our first 100 mile race, I find myself grappling with the same struggle I faced immediately after the 24-hour race at Lhotse.&nbsp; (A struggle I wrote about, but never published much like my race report&#8230;hmm)&nbsp; That place of struggle to know if I can finish this race or not. I am in that time of reflection and period of self-doubt where I wonder if I trained hard enough, if I have what it takes to overcome the pain, if my Why is big enough?&nbsp;&nbsp; </p>
+
+
+
+<p>Earlier today while
+discussing my thoughts with my running partner, I heard myself say, &#8220;I
+don&#8217;t know if my Why is big enough to get me through this race.&#8221; Those
+words have echoed in my head all day.</p>
+
+
+
+<p>So tonight I read an inspirational article about a runner who finished the Tahoe 100 that Trex sent me, and I made myself watch Billy Yang&#8217;s film, &#8216;The Why&#8217;, to try and pull myself out of my funk and once again find that place of determination and inspiration that will help me push through, and to remind myself of my Why.</p>
+
+
+
+<p>To be honest it has felt forced and cliché, but I knew there would be nuggets of wisdom in that article, and in that short film that I could use like life lines to help me pull out of my darker depths. I mean if I feel this way now how the hell am I going to feel at mile 82? (assuming I make it that far)</p>
+
+
+
+<p>So did it help? Yes.
+Am I happy-go-lucky? No.&nbsp; But it&#8217;s a
+start. I know in my head, that overcoming pain, both mental and physical, will
+be the hardest part of this, and I needed to hear this process described by other
+runners who have faced this and won their battles. It helps to hear or read it
+put concisely. </p>
+
+
+
+<p>It helped to hear
+that last inspiring message that it is okay to use my body in this way, to
+overcome my mind and to look for the other side of the pain that will come.&nbsp; It helped to be reminded that it is part of
+the story I will tell for years and years.</p>
+
+
+
+<p>So now I am forcing
+myself to sit down and write these thoughts down, to remind myself of my Why
+and to create something that I can revisit and maybe other&#8217;s will too, whenever
+I am facing similar doubts. </p>
+
+
+
+<p>I wish at this moment I wasn&#8217;t struggling with these feelings. I wish more than anything that I was confident and excited about this race. I wish that I had inspiring things to write about. I wish that I was going into this week with a hopeful heart instead of a since of worry and dread, but I am not, at least not at present while I write this. I am worried. I am anxious. I am afraid, and more than anything I want it all to just be over so I can put it behind me better or worse. But mostly I am sad and angry that right now I am feeling so negatively towards something I have been working hard for all summer. I gave up Saturday and Sunday mornings sleeping in and watching cartoons with my kids to run. I ran after work, exhausted, in the triple digit heat. I ran during the miserable sticky nights around the same paths I have pounded around for years now. And I ran through the pain of watching my dearest aunt die of brain tumors. It was a long hot painful summer and I deserve to see my work come to the bloody damn end.</p>
+
+
+
+<p> So it is with heaviness in my heart and mind that I jot down my thoughts tonight in hopes of capturing the ebb and flow of emotions that this journey will bring, and it is just this very journey, the one of the highs and lows, that reminds me I have work to do in myself, that is my Why.</p>
+											</div>						
+				</article>				<article class="post" class="post-content-area wow fadeInDown animated post-1244 post type-post status-publish format-standard hentry category-uncategorized" data-wow-delay="0.4s">				
+						<div class="entry-meta">
+		<span class="entry-date">
+			<a href="https://runsalty.com/2019/06/"><time datetime="">Jun 17, 2019</time></a>
+		</span>
+	</div>
+					<header class="entry-header">
+						<h3 class="entry-title"><a href="https://runsalty.com/2019/06/17/how-not-to-run-100-miles/">How not to run 100 miles</a></h3><div class="entry-meta">
+	<span class="author">By <a rel="tag" href="https://runsalty.com/author/dadigator/">TREX</a>
+	
+	</span>
+		<span class="cat-links">in<a href="https://runsalty.com/2019/06/17/how-not-to-run-100-miles/"><a href="https://runsalty.com/category/uncategorized/" rel="category tag">Uncategorized</a></a></span>
+	
+</div>	 
+					</header>				
+										<div class="entry-content">
+						
+<p>While some of this information applies to a race of any distance I&#8217;m going to focus on 100 miles as that&#8217;s what Bunny and I are currently training for. </p>
+
+
+
+<p>If you read race reports of 100 mile races then you&#8217;re probably aware of this recurring theme (actual paraphrased quotes below since I don&#8217;t have permission to repost) </p>
+
+
+
+<p>&#8220;&#8230;started out possibly too fast sticking with the lead pack&#8230; around mile 50 started having GI issues and couldn&#8217;t keep anything down, pace was down to 13 minute miles&#8230; by mile 75 I was down to 18 minute miles&#8230;  mile 90 and the death march had set it and I was lucky to do 30minute miles&#8221;</p>
+
+
+
+<p>&#8220;&#8230;started out aggressive, trying to bank time&#8230; things went sideways at mile 47&#8230; started having to stop and rest every few miles&#8230; barely made the cutoffs at the last aid station&#8230;&#8221;</p>
+
+
+
+<p>&#8220;&#8230;held off on hydration and fueling for the first 20 miles trying to avoid wasting time in the aid stations&#8230; bonked hard by mile 40&#8230; dropped at mile 73&#8230;&#8221;</p>
+
+
+
+<p>I literally just watched yet another video by a runner doing his or her first 100 mile race.   He burned through the first 25 miles in under 5 hours.   Then the GI problems started before the turn around and he barely made the finish line before the cut off as a result.    </p>
+
+
+
+<p>It&#8217;s my 110% firm belief that most ultra runners who post race reports and most of the ones I&#8217;ve talked to do not have a pace plan.  This is anecdotal obviously.  Most &#8216;just run by feel&#8217;.  </p>
+
+
+
+<p>While I believe there are a number of good runners who can do this, I do not believe the majority can do this, especially for their first serious ultra marathon.  They run way too fast, out of inexperience with the 100 mile distances or out of ego or out of race jitters or out of &#8216;this is how fast I run my 20 and 30 mile training runs&#8217;. </p>
+
+
+
+<p>It&#8217;s taken me the last 2 years to figure this out for me personally.   Like most I let my ego write checks my legs couldn&#8217;t cash.   I train at 11 minute miles so I should race at 10:30&#8217;s.  Then I crash and burned like most race reports&#8230; report.</p>
+
+
+
+<p>I put my painfully earned experience from our earlier ultra&#8217;s to use at our first 24 hour race and for the first time in an ultra I was able to maintain a consistent pacing from start to finish.  This went a long way for me to validate both my pace plan and my thoughts on pacing. </p>
+
+
+
+<p>As it happened Bob Stearns was also at that 24 hour race and as a result of his machine like pacing I googled him and found out in some circles he&#8217;s called &#8220;The King of Pacing&#8221; and has extremely in depth and well planned pace charts that&#8217;s taken him out to 200+ miles. </p>
+
+
+
+<p>This just added more validation I think to my way of thinking. </p>
+
+
+
+<p>The reason pacing is everything in an 100 mile race is once you get behind the 8 ball, once you get into a deficit it&#8217;s extremely hard to come back. </p>
+
+
+
+<p>A compatible and individualized pace plan for a given runner will always feel too slow at the race start.  But that pacing is critical.  A runner needs time to process calories both ingested and converting fat to fuel.   A runner needs time to process lactic acids and flush them out of the system.  A runner needs time to process fluids to replace those lost in sweat and urine. </p>
+
+
+
+<p>Without that time a runner will start running a calorie, fluid and fatigue deficit which will end badly usually.   GI issues will come up and ingested items will start coming out whatever the nearest orifice is, not to be gross.  Muscles will get overstressed and fatigued leading to an inability to run and navigate technical terrain.   Nerves will get overstressed and start firing erratically leading to race killing cramps.</p>
+
+
+
+<p>Pacing, pacing, pacing, it&#8217;s what will get a runner to the finish line, strong, in the fastest possible time, with the least risk of injury to body and health. </p>
+
+
+
+<p><strong>Pacing in fueling </strong>&#8211; A runner should start consuming calories a couple of hours pre-race and continue to consume between 200 and 350 calories an hour.   The average person can process, convert ingested calories to fuel, on the order of about 250 calories an hour.  Any more calories than that will start to pile up in the digestive tract leading to the dreaded GI issues as the body has very good systems to deal with excess while under high activity.  i.e. you&#8217;ll start puking it out.   </p>
+
+
+
+<p>It&#8217;s important to note that obviously you&#8217;re burning far more than 250 calories an hour.   Don&#8217;t worry, your body will start converting all that fat you&#8217;re carrying into fuel.  But this requires some resources, it requires extra water, blood and energy.  If you&#8217;re at the ragged edge of your abilities the body doesn&#8217;t have these to spare.  And you bonk. </p>
+
+
+
+<p>It&#8217;s also important to note that the brain/central nervous system runs on carbs.   So during an ultra most runners, even keto/fasted/fat based runners, should focus on ingesting carbs, these are what your brain and twitch reflexes are going to be short on.  </p>
+
+
+
+<p>Anecdotal: I knew from training runs and our ultra races that I can process about 300-350 calories an hour safely and over our 24 hour race I stuck with this for all but the last few hours where I started increasing my intake as it was looking close to whether I&#8217;d hit my goal mileage or not.  As a result I was fine for the first 21 hours.   Then I started getting that bloated, sluggish, &#8216;thanksgiving dinner&#8217; feeling.  The extra calories hurt, not helped my performance. </p>
+
+
+
+<p><strong>Pacing in hydration </strong>&#8211; This is more individualized.   On a summer run I consume between 20 and 32 oz an hour.  And still lose up to a lb an hour.  But stay on top of it.  The early stages of dehydration have no real symptoms or feelings other than your performance will start to decrease.  As the imbalance gets worse the body will start pulling water everywhere it can and the biggest source is the blood.   Which unsurprisingly is a big performance hit.  </p>
+
+
+
+<p>Monitor your urine output and color.  If it&#8217;s infrequent and dark, you&#8217;re not drinking enough.   If it&#8217;s very frequent and colorless, you&#8217;re drinking too much and are potentially diluting your electrolytes to a dangerous degree.   These are basic rules of thumb and subject to the individual. </p>
+
+
+
+<p>If you start to pee and it&#8217;s the color of Coke, then you&#8217;re in a potentially serious situation and should consult with the medical staff at the aid stations.   They will likely pull you as Rhabomylosis can be very dangerous and I speak from personal experience.</p>
+
+
+
+<p><strong>Pacing in speed</strong> &#8211; This may not be easily possible to figure out without running stupid long distances.  It&#8217;s a  safe bet it&#8217;s going to be 90 seconds to a 2 minutes slower than the 30 mile training pace for large number of runners especially newer ultra runners.  I know it wasn&#8217;t until we&#8217;d run several ultra distances, 4 50K&#8217;s and a 50mile that I ended up with a good handle on what might be the best pacing for us for 100 miles.   </p>
+
+
+
+<p>I know from own training and racing that a 100 mile pace plan feels crazy slow at the race start.  You want to be out there, you don&#8217;t want &#8216;that guy&#8217; beating you off the line, it&#8217;s his first 100 for goodness sake.   But it&#8217;s sticking with that pace plan, regardless of how &#8216;awesome, full of energy, great&#8217; you feel at the start of the race that will have you reeling all those people who blew out and blew up later on down the road.   Sticking with the pace plan is how you&#8217;ll PR your times while at the same time enjoy the race instead of it being a miserable trudgefest of pain, fatigue and projectile vomiting. </p>
+
+
+
+<p>At least that&#8217;s my thoughts on the subject. <br></p>
+											</div>						
+				</article>				<article class="post" class="post-content-area wow fadeInDown animated post-1239 post type-post status-publish format-standard hentry category-uncategorized" data-wow-delay="0.4s">				
+						<div class="entry-meta">
+		<span class="entry-date">
+			<a href="https://runsalty.com/2019/05/"><time datetime="">May 21, 2019</time></a>
+		</span>
+	</div>
+					<header class="entry-header">
+						<h3 class="entry-title"><a href="https://runsalty.com/2019/05/21/it-doesnt-get-easier/">It doesn&#8217;t get easier</a></h3><div class="entry-meta">
+	<span class="author">By <a rel="tag" href="https://runsalty.com/author/bunny/">Bunny</a>
+	
+	</span>
+		<span class="cat-links">in<a href="https://runsalty.com/2019/05/21/it-doesnt-get-easier/"><a href="https://runsalty.com/category/uncategorized/" rel="category tag">Uncategorized</a></a></span>
+	
+</div>	 
+					</header>				
+										<div class="entry-content">
+						
+<p>&#8216;Seriously,
+shouldn&#8217;t this [insert distance] be easier by now?!?!&#8217;</p>
+
+
+
+<p>Just about every time Trex and I set out to run we utter some form or another of this phrase at some point during the run. Whether it be a short and sweet tempo run or a the warm-up for our long slow run, it seems we have some false expectations that it would have somehow gotten easier over the years given the number of miles we have logged. We somehow have this feeling like one day we will set out to run a snappy 5K and it won&#8217;t feel like we are trudging through the last miles of a marathon.&nbsp; </p>
+
+
+
+<p>Since we both have logged well <s>over one thousand miles each</s>, <strong>[Over 3200 miles at this point Bun] </strong>with our longest break being under a month in the last two years straight I tend to scratch my head a bit also when everything seems to whine and complain on an &#8216;easy&#8217; day. It begs the question, why is there no such thing as an &#8216;easy&#8217; day after all this time?  </p>
+
+
+
+<p>Well I think the
+answer is fairly simple. It&#8217;s not easy because running is work. It&#8217;s overcoming
+inertia in the form of the body at rest, and by the laws of physics and biology
+our body will always fight us to return to that easy place of comfort (aka not
+moving). Therefore running will never be easy and it will always feel like
+work. PERIOD. </p>
+
+
+
+<p>But I think also, in
+our case, we keep pushing the bar further and further out with each new goal we
+achieve, and frankly we haven&#8217;t really stopped to smell the roses. We have
+continually pushed our bodies to go further, and now into the realm of Ultra distances,
+which are not for the faint of heart or body or mind. We have relentlessly
+moved forward in spite of the warnings our bodies have given us, and protested
+when our bodies revolted. Stubbornly we have forced upon ourselves the
+willpower of our minds to keep going even when it means we might regret it
+later.&nbsp; With each new goal our mindsets
+shift the bar but our bodies remind us just how much work it will be and just
+how quickly we can get right back to where we started. That is why it never
+gets easier. We have to know with every step that we are pushing ourselves,
+otherwise I think we would feel entitled and unappreciative of our
+achievements. </p>
+
+
+
+<p>To be honest I would
+settle for a little entitlement right about now, but I suppose there is nothing
+wrong with a hard day&#8217;s work, as the saying goes. So here&#8217;s to many more months
+ahead of hard work, sweat, blood, and maybe some tears that will bring us to
+our next Ultra adventure. </p>
+											</div>						
+				</article>
+	<nav class="navigation pagination" role="navigation" aria-label="Posts">
+		<h2 class="screen-reader-text">Posts navigation</h2>
+		<div class="nav-links"><span aria-current="page" class="page-numbers current">1</span>
+<a class="page-numbers" href="https://runsalty.com/page/2/">2</a>
+<span class="page-numbers dots">&hellip;</span>
+<a class="page-numbers" href="https://runsalty.com/page/19/">19</a>
+<a class="next page-numbers" href="https://runsalty.com/page/2/"><i class="fa fa-angle-double-right"></i></a></div>
+	</nav>			</div>	
+			<!--/Blog Section-->
+			
+<!--Sidebar Section-->
+
+<div class="col-md-4 col-sm-5 col-xs-12">
+
+	<div class="sidebar">
+	
+		<aside id="search-2" class="widget widget_search wow fadeInDown animated" data-wow-delay="0.4s"><div class="section-header wow fadeInDown animated" data-wow-delay="0.4s"><h3 class="widget-title">Search</h3></div><form method="get" id="searchform" class="search-form" action="https://runsalty.com/">
+	
+		<label><input type="search" class="search-field" placeholder="Search here" value="" name="s" id="s"/></label>
+		<label><input type="submit" class="search-submit" value="Search"></label>
+	
+</form></aside><aside id="custom_html-4" class="widget_text widget widget_custom_html wow fadeInDown animated" data-wow-delay="0.4s"><div class="section-header wow fadeInDown animated" data-wow-delay="0.4s"><h3 class="widget-title">Trex And Bunny</h3></div><div class="textwidget custom-html-widget"><style>
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+	margin-bottom: 10px;
+		border: 1px solid #eeeeee;
+	border-bottom: 45px solid #f7f7f7;
+	text-decoration: none;
+	 background-color: #f7f7f7;
+    padding: 10px 10px;
+    text-align: center;
+			box-shadow:  2px 3px 4px  rgba(0,0,0,0.2);
+			-moz-box-shadow: 2px 3px 4px  rgba(0,0,0,0.2);
+			-webkit-box-shadow:  3px 3px 4px  rgba(0,0,0,0.2);
+			-o-box-shadow: 2px 3px 4px  rgba(0,0,0,0.2);
+	}
+</style>
+
+<img src="https://runsalty.com/wp-content/uploads/2018/06/dd2.png" alt="">
+<img src="https://runsalty.com/wp-content/uploads/2018/05/bunny.jpg" alt=""></div></aside><aside id="custom_html-6" class="widget_text widget widget_custom_html wow fadeInDown animated" data-wow-delay="0.4s"><div class="section-header wow fadeInDown animated" data-wow-delay="0.4s"><h3 class="widget-title">Rabbit</h3></div><div class="textwidget custom-html-widget"><img src="https://runsalty.com/wp-content/uploads/2018/08/White_River_50_Mile-Finish-2017-1.jpg" alt=""></div></aside>
+		<aside id="recent-posts-2" class="widget widget_recent_entries wow fadeInDown animated" data-wow-delay="0.4s">
+		<div class="section-header wow fadeInDown animated" data-wow-delay="0.4s"><h3 class="widget-title">Recent Posts</h3></div>
+		<ul>
+											<li>
+					<a href="https://runsalty.com/2020/08/22/what-it-took-to-run-100-miles/">What it took to run 100 miles&#8230;</a>
+									</li>
+											<li>
+					<a href="https://runsalty.com/2020/08/13/two-months-out/">Two months out&#8230;</a>
+									</li>
+											<li>
+					<a href="https://runsalty.com/2020/05/03/medal-display/">Medal Display</a>
+									</li>
+											<li>
+					<a href="https://runsalty.com/2020/01/19/numb-toes-and-the-search-for-something-mighty-in-the-water/">Numb Toes and the search for something Mighty in the water…</a>
+									</li>
+											<li>
+					<a href="https://runsalty.com/2019/11/07/pain-says-a-1000-words/">Pain says a 1000 words, or not a 100 miles&#8230;</a>
+									</li>
+					</ul>
+
+		</aside><aside id="tag_cloud-9" class="widget widget_tag_cloud wow fadeInDown animated" data-wow-delay="0.4s"><div class="section-header wow fadeInDown animated" data-wow-delay="0.4s"><h3 class="widget-title">Categories</h3></div><div class="tagcloud"><a href="https://runsalty.com/category/notarunner/" class="tag-cloud-link tag-link-20 tag-link-position-1" style="font-size: 10.2pt;" aria-label="#NOTARUNNER (4 items)">#NOTARUNNER</a>
+<a href="https://runsalty.com/category/5k/" class="tag-cloud-link tag-link-7 tag-link-position-2" style="font-size: 11pt;" aria-label="5k (5 items)">5k</a>
+<a href="https://runsalty.com/category/10k/" class="tag-cloud-link tag-link-10 tag-link-position-3" style="font-size: 12.7pt;" aria-label="10k (8 items)">10k</a>
+<a href="https://runsalty.com/category/25k/" class="tag-cloud-link tag-link-48 tag-link-position-4" style="font-size: 9.2pt;" aria-label="25K (3 items)">25K</a>
+<a href="https://runsalty.com/category/30k/" class="tag-cloud-link tag-link-36 tag-link-position-5" style="font-size: 10.2pt;" aria-label="30K (4 items)">30K</a>
+<a href="https://runsalty.com/category/50k/" class="tag-cloud-link tag-link-38 tag-link-position-6" style="font-size: 15.2pt;" aria-label="50K (15 items)">50K</a>
+<a href="https://runsalty.com/category/50m/" class="tag-cloud-link tag-link-69 tag-link-position-7" style="font-size: 13.2pt;" aria-label="50M (9 items)">50M</a>
+<a href="https://runsalty.com/category/100m/" class="tag-cloud-link tag-link-89 tag-link-position-8" style="font-size: 13.2pt;" aria-label="100M (9 items)">100M</a>
+<a href="https://runsalty.com/category/endurance-race/" class="tag-cloud-link tag-link-123 tag-link-position-9" style="font-size: 11pt;" aria-label="Endurance Race (5 items)">Endurance Race</a>
+<a href="https://runsalty.com/category/energy/" class="tag-cloud-link tag-link-26 tag-link-position-10" style="font-size: 13.6pt;" aria-label="Energy (10 items)">Energy</a>
+<a href="https://runsalty.com/category/fuel/" class="tag-cloud-link tag-link-81 tag-link-position-11" style="font-size: 12.2pt;" aria-label="Fuel (7 items)">Fuel</a>
+<a href="https://runsalty.com/category/full/" class="tag-cloud-link tag-link-13 tag-link-position-12" style="font-size: 10.2pt;" aria-label="Full (4 items)">Full</a>
+<a href="https://runsalty.com/category/gear/" class="tag-cloud-link tag-link-3 tag-link-position-13" style="font-size: 20pt;" aria-label="Gear (47 items)">Gear</a>
+<a href="https://runsalty.com/category/half/" class="tag-cloud-link tag-link-12 tag-link-position-14" style="font-size: 15.5pt;" aria-label="Half (16 items)">Half</a>
+<a href="https://runsalty.com/category/injury/" class="tag-cloud-link tag-link-29 tag-link-position-15" style="font-size: 16.6pt;" aria-label="Injury (21 items)">Injury</a>
+<a href="https://runsalty.com/category/keto/" class="tag-cloud-link tag-link-59 tag-link-position-16" style="font-size: 9.2pt;" aria-label="Keto (3 items)">Keto</a>
+<a href="https://runsalty.com/category/marathon/" class="tag-cloud-link tag-link-30 tag-link-position-17" style="font-size: 14pt;" aria-label="Marathon (11 items)">Marathon</a>
+<a href="https://runsalty.com/category/medals/" class="tag-cloud-link tag-link-9 tag-link-position-18" style="font-size: 10.2pt;" aria-label="Medals (4 items)">Medals</a>
+<a href="https://runsalty.com/category/mistakes/" class="tag-cloud-link tag-link-22 tag-link-position-19" style="font-size: 13.6pt;" aria-label="Mistakes (10 items)">Mistakes</a>
+<a href="https://runsalty.com/category/nutrition/" class="tag-cloud-link tag-link-27 tag-link-position-20" style="font-size: 15.5pt;" aria-label="Nutrition (16 items)">Nutrition</a>
+<a href="https://runsalty.com/category/personal-news/" class="tag-cloud-link tag-link-34 tag-link-position-21" style="font-size: 11pt;" aria-label="Personal News (5 items)">Personal News</a>
+<a href="https://runsalty.com/category/personal-record/" class="tag-cloud-link tag-link-24 tag-link-position-22" style="font-size: 11.7pt;" aria-label="Personal Record (6 items)">Personal Record</a>
+<a href="https://runsalty.com/category/physical-therapy/" class="tag-cloud-link tag-link-33 tag-link-position-23" style="font-size: 11pt;" aria-label="Physical Therapy (5 items)">Physical Therapy</a>
+<a href="https://runsalty.com/category/race-report/" class="tag-cloud-link tag-link-66 tag-link-position-24" style="font-size: 12.7pt;" aria-label="Race Report (8 items)">Race Report</a>
+<a href="https://runsalty.com/category/races/" class="tag-cloud-link tag-link-4 tag-link-position-25" style="font-size: 18.1pt;" aria-label="Races (30 items)">Races</a>
+<a href="https://runsalty.com/category/review/" class="tag-cloud-link tag-link-46 tag-link-position-26" style="font-size: 13.2pt;" aria-label="Review (9 items)">Review</a>
+<a href="https://runsalty.com/category/road-to-50/" class="tag-cloud-link tag-link-67 tag-link-position-27" style="font-size: 12.7pt;" aria-label="Road to 50 (8 items)">Road to 50</a>
+<a href="https://runsalty.com/category/running/" class="tag-cloud-link tag-link-21 tag-link-position-28" style="font-size: 18.1pt;" aria-label="Running (30 items)">Running</a>
+<a href="https://runsalty.com/category/running-journal/" class="tag-cloud-link tag-link-35 tag-link-position-29" style="font-size: 11pt;" aria-label="Running Journal (5 items)">Running Journal</a>
+<a href="https://runsalty.com/category/running-partners/" class="tag-cloud-link tag-link-87 tag-link-position-30" style="font-size: 9.2pt;" aria-label="Running Partners (3 items)">Running Partners</a>
+<a href="https://runsalty.com/category/running-spouses/" class="tag-cloud-link tag-link-86 tag-link-position-31" style="font-size: 8pt;" aria-label="running spouses (2 items)">running spouses</a>
+<a href="https://runsalty.com/category/run-salty/" class="tag-cloud-link tag-link-31 tag-link-position-32" style="font-size: 13.2pt;" aria-label="Run Salty (9 items)">Run Salty</a>
+<a href="https://runsalty.com/category/safety/" class="tag-cloud-link tag-link-28 tag-link-position-33" style="font-size: 8pt;" aria-label="Safety (2 items)">Safety</a>
+<a href="https://runsalty.com/category/shoes/" class="tag-cloud-link tag-link-2 tag-link-position-34" style="font-size: 16.2pt;" aria-label="Shoes (19 items)">Shoes</a>
+<a href="https://runsalty.com/category/technology/" class="tag-cloud-link tag-link-15 tag-link-position-35" style="font-size: 16pt;" aria-label="Technology (18 items)">Technology</a>
+<a href="https://runsalty.com/category/trail-running/" class="tag-cloud-link tag-link-5 tag-link-position-36" style="font-size: 19.2pt;" aria-label="Trail Running (39 items)">Trail Running</a>
+<a href="https://runsalty.com/category/training/" class="tag-cloud-link tag-link-25 tag-link-position-37" style="font-size: 22pt;" aria-label="Training (74 items)">Training</a>
+<a href="https://runsalty.com/category/travel/" class="tag-cloud-link tag-link-61 tag-link-position-38" style="font-size: 11pt;" aria-label="Travel (5 items)">Travel</a>
+<a href="https://runsalty.com/category/treatment/" class="tag-cloud-link tag-link-32 tag-link-position-39" style="font-size: 11pt;" aria-label="Treatment (5 items)">Treatment</a>
+<a href="https://runsalty.com/category/ultra/" class="tag-cloud-link tag-link-14 tag-link-position-40" style="font-size: 16.2pt;" aria-label="Ultra (19 items)">Ultra</a>
+<a href="https://runsalty.com/category/ultramarathon/" class="tag-cloud-link tag-link-116 tag-link-position-41" style="font-size: 16pt;" aria-label="Ultramarathon (18 items)">Ultramarathon</a>
+<a href="https://runsalty.com/category/ultrarunners/" class="tag-cloud-link tag-link-70 tag-link-position-42" style="font-size: 12.7pt;" aria-label="Ultrarunners (8 items)">Ultrarunners</a>
+<a href="https://runsalty.com/category/ultras/" class="tag-cloud-link tag-link-6 tag-link-position-43" style="font-size: 12.7pt;" aria-label="Ultras (8 items)">Ultras</a>
+<a href="https://runsalty.com/category/uncategorized/" class="tag-cloud-link tag-link-1 tag-link-position-44" style="font-size: 11.7pt;" aria-label="Uncategorized (6 items)">Uncategorized</a>
+<a href="https://runsalty.com/category/vlog/" class="tag-cloud-link tag-link-39 tag-link-position-45" style="font-size: 11.7pt;" aria-label="VLOG (6 items)">VLOG</a></div>
+</aside><aside id="text-3" class="widget widget_text wow fadeInDown animated" data-wow-delay="0.4s"><div class="section-header wow fadeInDown animated" data-wow-delay="0.4s"><h3 class="widget-title">Subscribe</h3></div>			<div class="textwidget"><p><a href="http://notarunner.me/feed/?customize_changeset_uuid=406eecb3-0771-4fab-9180-3c4c28a731e2&amp;customize_messenger_channel=preview-0">Content RSS</a></p>
+</div>
+		</aside><aside id="recent-comments-2" class="widget widget_recent_comments wow fadeInDown animated" data-wow-delay="0.4s"><div class="section-header wow fadeInDown animated" data-wow-delay="0.4s"><h3 class="widget-title">Recent Comments</h3></div><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link">RAbbit</span> on <a href="https://runsalty.com/2019/10/30/kansas-rails-to-trails-race-report/#comment-42">Kansas Rails To Trails Race Report</a></li><li class="recentcomments"><span class="comment-author-link">Scott Runner</span> on <a href="https://runsalty.com/2017/04/26/jaybird-x3-warning/#comment-36">Jaybird X3 &#8211; Warning</a></li><li class="recentcomments"><span class="comment-author-link">Wouter</span> on <a href="https://runsalty.com/2017/04/26/jaybird-x3-warning/#comment-34">Jaybird X3 &#8211; Warning</a></li><li class="recentcomments"><span class="comment-author-link">TREX</span> on <a href="https://runsalty.com/2018/08/29/cumulative-stress/#comment-31">Cumulative Stress</a></li><li class="recentcomments"><span class="comment-author-link">RAbbit</span> on <a href="https://runsalty.com/2018/08/29/cumulative-stress/#comment-30">Cumulative Stress</a></li></ul></aside>	
+		
+	</div>
+	
+</div>	
+
+<!--Sidebar Section-->
+
+		</div>
+	</div>
+</section>
+<!-- /Blog & Sidebar Section -->
+<!-- Footer Section -->
+<footer class="site-footer">		
+	<div class="container">
+		
+		   		
+					<div class="row">
+			<div class="col-md-12">
+					<div class="site-info wow fadeIn animated" data-wow-delay="0.4s">
+						<p>Copyright © 2018 Run Salty. All right reserved</p>					</div>
+				</div>			
+			</div>	
+				
+	</div>
+</footer>
+<!-- /Footer Section -->
+<div class="clearfix"></div>
+</div><!--Close of wrapper-->
+<!--Scroll To Top--> 
+<a href="#" class="hc_scrollup"><i class="fa fa-chevron-up"></i></a>
+<!--/Scroll To Top--> 
+<script type='text/javascript' src='http://runsalty.com/wp-content/plugins/wordpress-countdown-widget/js/jquery.countdown.min.js?ver=1.0' id='countdown-js'></script>
+<script type='text/javascript' src='http://runsalty.com/wp-includes/js/wp-embed.min.js?ver=921df0dc9ea878ca39bd4e6f835f57dc' id='wp-embed-js'></script>
+<script type='text/javascript' src='http://runsalty.com/wp-content/themes/spicepress/js/animation/animate.js?ver=921df0dc9ea878ca39bd4e6f835f57dc' id='animate-js-js'></script>
+<script type='text/javascript' src='http://runsalty.com/wp-content/themes/spicepress/js/animation/wow.min.js?ver=921df0dc9ea878ca39bd4e6f835f57dc' id='wow-js-js'></script>
+
+<script>(function($) {
+  $.countdown.regional['custom'] = {
+    labels: [
+      'Years', 
+      'Months', 
+      'Weeks', 
+      'Days', 
+      'Hours', 
+      'Minutes', 
+      'Seconds'
+      ], 
+    labels1: [
+      'Year', 
+      'Month', 
+      'Week', 
+      'Day', 
+      'Hour', 
+      'Minute', 
+      'Second'
+    ], 
+    compactLabels: ['y', 'a', 'h', 'g'], 
+    whichLabels: null, 
+    timeSeparator: ':', 
+    isRTL: false
+  }; 
+  $.countdown.setDefaults($.countdown.regional['custom']); 
+})(jQuery);
+</script>
+</body>
+</html>
+<!-- Dynamic page generated in 0.298 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2020-11-12 06:01:09 -->
+
+<!-- Compression = gzip -->
